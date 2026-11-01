@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Slop</title>
+<style>
+:root{--y:#ffd60a;--bg:#0b0b0b;--line:#222;--mut:#8a8a8a;--txt:#ececec;--round:"Arial Rounded MT Bold","Nunito",ui-rounded,"Helvetica Neue",sans-serif}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:5}
+.top{display:flex;align-items:center;justify-content:space-between;padding:18px 0 14px}
+.word{font-family:var(--round);font-weight:900;font-size:28px;letter-spacing:-1px;background:var(--y);color:#000;padding:1px 16px 4px;border-radius:999px;display:inline-block}
+.tag{color:var(--mut);font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+nav{display:flex;gap:28px;overflow-x:auto}
+.tab{background:none;border:0;border-bottom:2px solid transparent;color:var(--mut);padding:10px 0 12px;font-size:13px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;font-family:inherit}
+.tab:hover{color:var(--txt)}
+.tab.on{color:var(--y);border-bottom-color:var(--y)}
+.lead{display:grid;grid-template-columns:1.4fr 1fr;gap:32px;align-items:end;padding:32px 0;border-bottom:1px solid var(--line)}
+.lead .t{font-size:34px;line-height:1.12;font-weight:700;letter-spacing:-.5px}
+.lead:hover .t{color:var(--y)}
+.lead .th{aspect-ratio:16/10}
+.sec{padding:32px 0 8px}
+.sh{display:flex;align-items:center;gap:10px;padding-bottom:12px;border-bottom:1px solid var(--line);margin-bottom:20px}
+.dot{width:8px;height:8px;background:var(--y);border-radius:50%}
+.sh h2{margin:0;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
+.g{display:grid;grid-template-columns:repeat(3,1fr);gap:28px 24px}
+.card{display:block}
+.card .th{aspect-ratio:16/10;margin-bottom:12px}
+.card .t{font-size:15px;line-height:1.35;font-weight:600}
+.card:hover .t{color:var(--y)}
+.m{font-size:11px;color:var(--mut);margin-top:8px;letter-spacing:.04em;text-transform:uppercase}
+.th{overflow:hidden;background:#161616;border-radius:2px}
+.th img{width:100%;height:100%;object-fit:cover;display:block}
+.ph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;height:100%;padding:8px;text-align:center;background:var(--y);color:#000;font-family:var(--round)}
+.ph b{font-size:72px;line-height:1;font-weight:900;letter-spacing:-3px}
+.ph span{font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
+.lead .ph b{font-size:110px}
+#empty,#foot{padding:40px 0;text-align:center;color:var(--mut);font-size:12px}
+@media(max-width:800px){.lead{grid-template-columns:1fr}.lead .t{font-size:26px}.g{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.g{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<div class="top"><span class="word">slop</span><span class="tag">AI news, sorted</span></div>
+<nav id="tabs"></nav>
+</div></header>
+<main class="wrap">
+<div id="root"></div>
+<div id="empty" style="display:none">No articles yet. Run fetch_news.py first.</div>
+<div id="foot"></div>
+</main>
+<script>
+let A=[],cat='All';
+const CATS=['Models','Tools','Business','Research'];
+const $=id=>document.getElementById(id);
+function el(t,c,x){const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n}
+function ago(s){const t=Date.parse(s);if(!t)return '';const m=Math.floor((Date.now()-t)/60000);if(m<60)return Math.max(m,1)+'m ago';const h=Math.floor(m/60);if(h<24)return h+'h ago';return Math.floor(h/24)+'d ago'}
+function thumb(a){
+  const box=el('div','th');
+  const ph=()=>{
+    box.textContent='';
+    const p=el('div','ph');
+    p.append(el('b',null,(a.source||'?').charAt(0).toLowerCase()),el('span',null,a.source));
+    box.append(p);
+  };
+  if(a.image){const im=document.createElement('img');im.loading='lazy';im.alt='';im.referrerPolicy='no-referrer';im.onerror=()=>{const c=box.closest('a');if(c)c.remove()};im.src=a.image;box.append(im)}else{ph()}
+  return box;
+}
+function link(cls,a){const l=el('a',cls);l.href=a.link;l.target='_blank';l.rel='noopener';return l}
+function meta(a){return el('div','m',a.source+' \u00b7 '+ago(a.published))}
+function leadEl(a){
+  const l=link('lead',a);
+  const txt=el('div','txt');txt.append(el('div','t',a.title),meta(a));
+  l.append(txt,thumb(a));return l;
+}
+function cardEl(a){
+  const l=link('card',a);
+  const txt=el('div','txt');txt.append(el('div','t',a.title),meta(a));
+  l.append(thumb(a),txt);return l;
+}
+function draw(){
+  const root=$('root');root.textContent='';
+  const items=A.filter(a=>a.image&&(cat==='All'||a.category===cat));
+  const k=items.findIndex(a=>a.image);
+  const lead=k>=0?items.splice(k,1)[0]:null;
+  if(lead)root.append(leadEl(lead));
+  const cats=cat==='All'?CATS:[cat];
+  cats.forEach(c=>{
+    let list=items.filter(a=>a.category===c);
+    if(cat==='All')list=list.slice(0,6);
+    if(!list.length)return;
+    const sec=el('section','sec');
+    const h=el('div','sh');h.append(el('span','dot'),el('h2',null,c));
+    const g=el('div','g');
+    list.forEach(a=>g.append(cardEl(a)));
+    sec.append(h,g);root.append(sec);
+  });
+  $('empty').style.display=(lead||items.length)?'none':'block';
+}
+function tabs(){
+  const box=$('tabs');box.textContent='';
+  ['All',...CATS].forEach(n=>{
+    const b=el('button','tab'+(n===cat?' on':''),n);
+    b.onclick=()=>{cat=n;tabs();draw();window.scrollTo(0,0)};box.append(b);
+  });
+}
+fetch('news.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{
+  A=d.items||[];tabs();draw();
+  if(d.generated_at)$('foot').textContent='Updated '+new Date(d.generated_at).toLocaleString();
+}).catch(()=>{$('empty').style.display='block'});
+</script>
+</body>
+</html>
