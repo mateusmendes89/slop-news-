@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-01T15:38:51.116922+00:00",
+  "generated_at": "2026-11-01T21:33:26.883918+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-01T20:57:58+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680"
+    },
+    {
+      "title": "Quoting Kyle Kingsbury",
+      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-01T16:49:04+00:00",
+      "image": ""
+    },
     {
       "title": "How We Took Over ChatGPT Accounts",
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
@@ -345,14 +361,6 @@
       "category": "Tools",
       "published": "2026-10-29T22:48:29+00:00",
       "image": ""
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-29T20:08:31+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800"
     },
     {
       "title": "Trump declares robot imports a national security threat",
@@ -857,14 +865,6 @@
       "category": "Research",
       "published": "2026-10-22T18:48:04+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-22T18:09:56+00:00",
-      "image": ""
     },
     {
       "title": "Making the case for context-aware AI",
