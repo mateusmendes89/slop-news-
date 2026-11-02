@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-11-02T14:24:54.796025+00:00",
+  "generated_at": "2026-11-02T22:57:34.835040+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T22:14:50+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T19:25:59+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675"
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T19:19:17+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800"
+    },
+    {
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-02T18:32:21+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg"
+    },
+    {
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-02T18:05:31+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
+      "category": "Models",
+      "published": "2026-11-02T17:45:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-02T17:00:00+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T16:30:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895"
+    },
+    {
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T16:23:21+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-02T15:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T15:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800"
+    },
     {
       "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
       "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
@@ -11,12 +99,20 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
     },
     {
-      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
       "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-02T13:57:53+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-02T13:56:02-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "The U.S. Census Bureau and “Super Intelligence”",
@@ -35,12 +131,36 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?w=840"
     },
     {
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-02T13:01:30-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-02T12:51:19-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "The agentic web is here",
       "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
       "source": "MIT Technology Review AI",
       "category": "Research",
       "published": "2026-11-02T09:35:19+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg"
+    },
+    {
+      "title": "LifeVal",
+      "link": "https://openai.com/index/lifeval",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-02T09:00:00+00:00",
+      "image": ""
     },
     {
       "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
@@ -203,6 +323,14 @@
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-02T00:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "If in doubt, delete the uv.lock file",
       "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
       "source": "Simon Willison",
@@ -233,6 +361,14 @@
       "category": "Tools",
       "published": "2026-11-01T16:49:04+00:00",
       "image": ""
+    },
+    {
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-01T02:22:10+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800"
     },
     {
       "title": "How We Took Over ChatGPT Accounts",
@@ -347,14 +483,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
     },
     {
-      "title": "Cracks are emerging in the AI spending boom",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T21:17:40+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
-    },
-    {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "source": "Ars Technica AI",
@@ -395,28 +523,12 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png"
     },
     {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T17:47:12+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
-    },
-    {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-10-30T17:38:19+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg"
-    },
-    {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T17:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
     },
     {
       "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
@@ -443,14 +555,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T16:03:45+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800"
-    },
-    {
       "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
       "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "source": "The Verge AI",
@@ -459,36 +563,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T14:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800"
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T13:54:25+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800"
-    },
-    {
       "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
       "source": "The Verge AI",
       "category": "Business",
       "published": "2026-10-30T13:38:04-04:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T13:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800"
     },
     {
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
@@ -507,36 +587,12 @@
       "image": ""
     },
     {
-      "title": "Silicon Valley wants you to invest in miracles",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-10-30T09:11:05-04:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-10-30T09:01:14-04:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Community safety report and new protections for teens",
       "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-10-30T09:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-10-30T07:00:00-04:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Fair use benefits everyone",
@@ -947,30 +1003,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600"
     },
     {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-26T07:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-26T07:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-26T00:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Seam Cutter",
       "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
       "source": "Simon Willison",
@@ -995,22 +1027,6 @@
       "image": "https://static.simonwillison.net/static/2026/heron-oil.webp"
     },
     {
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-23T20:19:55+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
-    },
-    {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-23T17:18:31+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg"
-    },
-    {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "link": "https://huggingface.co/blog/torch-neuronx-model-support",
       "source": "Hugging Face",
@@ -1033,14 +1049,6 @@
       "category": "Research",
       "published": "2026-10-22T21:17:29+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840"
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-10-22T18:48:04+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png"
     },
     {
       "title": "Ensemble forecasting with IBM Granite time-series models",
@@ -1273,14 +1281,6 @@
       "category": "Models",
       "published": "2026-09-09T16:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI",
-      "category": "Models",
-      "published": "2026-09-02T15:40:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
     }
   ]
 }
