@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-01T21:33:26.883918+00:00",
+  "generated_at": "2026-11-02T03:45:16.462114+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "If in doubt, delete the uv.lock file",
+      "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-01T23:24:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-01T21:55:23+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
     {
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
@@ -345,14 +361,6 @@
       "category": "Models",
       "published": "2026-10-30T00:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-29T23:42:22+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
     },
     {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
@@ -849,14 +857,6 @@
       "category": "Research",
       "published": "2026-10-22T21:17:29+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840"
-    },
-    {
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-22T19:42:26+00:00",
-      "image": "https://static.simonwillison.net/static/2026/freedom-pelican-poster.jpg"
     },
     {
       "title": "The Foundations of Scalable AI",
