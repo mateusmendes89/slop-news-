@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-11-02T03:45:16.462114+00:00",
-  "count": 140,
+  "generated_at": "2026-11-02T14:24:54.796025+00:00",
+  "count": 160,
   "items": [
+    {
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T14:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T13:57:53+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-02T13:31:26+00:00",
+      "image": "https://static.simonwillison.net/static/2026-11-01/5821A414-FAF6-4E61-B037-952C1FD80D39.png"
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-02T13:10:32+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?w=840"
+    },
+    {
+      "title": "The agentic web is here",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-02T09:35:19+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg"
+    },
+    {
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "link": "https://arxiv.org/abs/2610.40758",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "link": "https://arxiv.org/abs/2610.40798",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "link": "https://arxiv.org/abs/2610.40831",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "link": "https://arxiv.org/abs/2610.40883",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "link": "https://arxiv.org/abs/2610.40890",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+      "link": "https://arxiv.org/abs/2610.40906",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Towards Portable Specification of the Agent Harness",
+      "link": "https://arxiv.org/abs/2610.40917",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "link": "https://arxiv.org/abs/2610.40927",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
+      "link": "https://arxiv.org/abs/2610.40938",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+      "link": "https://arxiv.org/abs/2610.40939",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Benchmarking Forecasting Agents on Yesterday's Tomorrows",
+      "link": "https://arxiv.org/abs/2610.40940",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
+      "link": "https://arxiv.org/abs/2610.40946",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior",
+      "link": "https://arxiv.org/abs/2610.40959",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories",
+      "link": "https://arxiv.org/abs/2610.40970",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The psychophysics of affect in large language models",
+      "link": "https://arxiv.org/abs/2610.40985",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Can Personal Requirements Become Supervision for Planning?",
+      "link": "https://arxiv.org/abs/2610.40992",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems",
+      "link": "https://arxiv.org/abs/2610.41018",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay",
+      "link": "https://arxiv.org/abs/2610.41025",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Capability-Grounded Agentic Planning",
+      "link": "https://arxiv.org/abs/2610.41040",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+      "link": "https://arxiv.org/abs/2610.41044",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "If in doubt, delete the uv.lock file",
       "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
@@ -291,14 +491,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800"
     },
     {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T13:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200"
-    },
-    {
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
       "source": "The Verge AI",
@@ -345,14 +537,6 @@
       "category": "Business",
       "published": "2026-10-30T07:00:00-04:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T01:20:48+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
     },
     {
       "title": "Fair use benefits everyone",
@@ -819,14 +1003,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
     },
     {
-      "title": "Introducing Kimi K3.1 Pro",
-      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-23T19:40:54+00:00",
-      "image": "https://static.simonwillison.net/static/2026-10-23/image-2.png"
-    },
-    {
       "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
       "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
       "source": "Ars Technica AI",
@@ -865,22 +1041,6 @@
       "category": "Research",
       "published": "2026-10-22T18:48:04+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png"
-    },
-    {
-      "title": "Making the case for context-aware AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-10-22T10:00:00+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600"
-    },
-    {
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-10-22T08:41:18+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png"
     },
     {
       "title": "Ensemble forecasting with IBM Granite time-series models",
