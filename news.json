@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-11-03T04:48:47.574212+00:00",
+  "generated_at": "2026-11-03T13:23:56.677626+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-03T10:43:41+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-03T08:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-03T07:20:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+    },
+    {
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-03T05:32:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "October sponsors-only newsletter",
+      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-03T05:28:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
+      "link": "https://arxiv.org/abs/2611.00159",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Learning to bid and bundle: a posterior-sampling agent for online retail",
+      "link": "https://arxiv.org/abs/2611.00165",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Early Stopping in Large Reasoning Models: A Survey and Empirical Audit of Efficiency and Reliability",
+      "link": "https://arxiv.org/abs/2611.00166",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "PatchScout: Thematic Web Data Collection via Information Foraging",
+      "link": "https://arxiv.org/abs/2611.00169",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies",
+      "link": "https://arxiv.org/abs/2611.00171",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation",
+      "link": "https://arxiv.org/abs/2611.00177",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Neurons Are All You Need",
+      "link": "https://arxiv.org/abs/2611.00186",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions",
+      "link": "https://arxiv.org/abs/2611.00191",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "From Cross-Section to Cross-Omics: Conditional Cell Nucleus Image Editing in Spatial Transcriptomics",
+      "link": "https://arxiv.org/abs/2611.00226",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "RE-SciVQA: Improving Scientific VQA With Context-Relevant Retrieval and Lightweight MLLM Adaptation",
+      "link": "https://arxiv.org/abs/2611.00242",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "OmniPiano: Diverse Dexterous Piano-Playing Challenges for Standard, Robust, Safe, and Multi-Agent RL",
+      "link": "https://arxiv.org/abs/2611.00243",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Taurus: LLM-in-the-Loop CT Annotation Matches Coding Agents at Half the Cost",
+      "link": "https://arxiv.org/abs/2611.00247",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A generative foundation model for computational brain imaging",
+      "link": "https://arxiv.org/abs/2611.00265",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Automated Theorem Generation in First-Order Logic by Construction from Triangular Standard Contradictions",
+      "link": "https://arxiv.org/abs/2611.00269",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Quantifying Local and Global Fidelity of Nonlinear Embeddings",
+      "link": "https://arxiv.org/abs/2611.00290",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Decentralized Multi-Agent Coordination and Communication in Shared Codebases",
+      "link": "https://arxiv.org/abs/2611.00314",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Beyond Semantic IDs: Atomic Creator Tokens for Large-Scale Generative Recommendation",
+      "link": "https://arxiv.org/abs/2611.00323",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Efficient NPN Classification for Large Functions using Graph Neural Network",
+      "link": "https://arxiv.org/abs/2611.00339",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Dependence-Aware Risk Assessment and Optimal Design of AI-Agent Safeguard Systems",
+      "link": "https://arxiv.org/abs/2611.00386",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "CalVLA: Shaping Native Confidence in Vision-Language-Action Policies with Outcome Supervision",
+      "link": "https://arxiv.org/abs/2611.00394",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-03T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -33,6 +233,14 @@
       "category": "Business",
       "published": "2026-11-03T00:35:52+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-03T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png"
     },
     {
       "title": "llm 0.37",
@@ -235,166 +443,6 @@
       "image": ""
     },
     {
-      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
-      "link": "https://arxiv.org/abs/2610.40758",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
-      "link": "https://arxiv.org/abs/2610.40798",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
-      "link": "https://arxiv.org/abs/2610.40831",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
-      "link": "https://arxiv.org/abs/2610.40883",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
-      "link": "https://arxiv.org/abs/2610.40890",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
-      "link": "https://arxiv.org/abs/2610.40906",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Towards Portable Specification of the Agent Harness",
-      "link": "https://arxiv.org/abs/2610.40917",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
-      "link": "https://arxiv.org/abs/2610.40927",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
-      "link": "https://arxiv.org/abs/2610.40938",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
-      "link": "https://arxiv.org/abs/2610.40939",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Benchmarking Forecasting Agents on Yesterday's Tomorrows",
-      "link": "https://arxiv.org/abs/2610.40940",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
-      "link": "https://arxiv.org/abs/2610.40946",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior",
-      "link": "https://arxiv.org/abs/2610.40959",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories",
-      "link": "https://arxiv.org/abs/2610.40970",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "The psychophysics of affect in large language models",
-      "link": "https://arxiv.org/abs/2610.40985",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Can Personal Requirements Become Supervision for Planning?",
-      "link": "https://arxiv.org/abs/2610.40992",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems",
-      "link": "https://arxiv.org/abs/2610.41018",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay",
-      "link": "https://arxiv.org/abs/2610.41025",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Capability-Grounded Agentic Planning",
-      "link": "https://arxiv.org/abs/2610.41040",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
-      "link": "https://arxiv.org/abs/2610.41044",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-02T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
       "title": "Qodo builds context into AI code review with Codex",
       "link": "https://openai.com/index/qodo-codex-plugin",
       "source": "OpenAI",
@@ -505,14 +553,6 @@
       "category": "Business",
       "published": "2026-10-31T12:05:00-04:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4,0,96,94.899920311255"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-31T01:20:05+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
     },
     {
       "title": "dbreunig/nesformer",
@@ -931,14 +971,6 @@
       "image": ""
     },
     {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "link": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-27T00:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "GPT-6.1 Terra",
       "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
       "source": "Simon Willison",
@@ -1009,30 +1041,6 @@
       "category": "Models",
       "published": "2026-10-26T14:30:27+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg"
-    },
-    {
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-10-26T09:01:00+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600"
-    },
-    {
-      "title": "Seam Cutter",
-      "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-25T15:10:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-24T03:59:57+00:00",
-      "image": "https://raw.githubusercontent.com/simonw/battledrones/v14/progress-shots/v14/compass-rose.jpg"
     },
     {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -1137,14 +1145,6 @@
       "category": "Tools",
       "published": "2026-10-15T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/meta-muse-spark-open/thumbnail.png"
-    },
-    {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "link": "https://huggingface.co/blog/flux-3",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-15T00:00:00+00:00",
-      "image": "https://huggingface.co/blog/assets/flux3/thumbnail.png"
     },
     {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
