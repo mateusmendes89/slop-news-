@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-02T22:57:34.835040+00:00",
+  "generated_at": "2026-11-03T04:48:47.574212+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-03T04:18:47+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-03T03:30:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-03T01:49:52+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-03T00:35:52+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
+    },
+    {
+      "title": "llm 0.37",
+      "link": "https://simonwillison.net/2026/Nov/2/llm/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-02T23:49:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-02T23:13:53+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900"
+    },
     {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
       "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
@@ -43,6 +91,22 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
     },
     {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-02T18:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-02T18:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "The latest AI news we announced in October 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "source": "Google AI",
@@ -73,6 +137,14 @@
       "category": "Business",
       "published": "2026-11-02T16:23:21+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-02T15:30:00+00:00",
+      "image": ""
     },
     {
       "title": "Introducing the Grid Protectors Program",
@@ -331,6 +403,14 @@
       "image": ""
     },
     {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-02T00:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "If in doubt, delete the uv.lock file",
       "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
       "source": "Simon Willison",
@@ -435,14 +515,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
     },
     {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T22:56:13+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847"
-    },
-    {
       "title": "dbreunig/nesformer",
       "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
       "source": "Simon Willison",
@@ -451,36 +523,12 @@
       "image": ""
     },
     {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T21:54:34+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T21:52:03+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
-    },
-    {
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
       "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-10-30T21:41:54+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg"
-    },
-    {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-10-30T21:26:59+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
     },
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -899,14 +947,6 @@
       "image": "https://static.simonwillison.net/static/2026-10-26/terra-max.webp"
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-26T22:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
       "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
       "source": "Ars Technica AI",
@@ -971,30 +1011,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg"
     },
     {
-      "title": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-26T14:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-26T13:45:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ChatGPT’s expanding world of work",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-26T10:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "The focus on AI safety disasters ignores everyday harms",
       "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
       "source": "MIT Technology Review AI",
@@ -1019,14 +1035,6 @@
       "image": "https://raw.githubusercontent.com/simonw/battledrones/v14/progress-shots/v14/compass-rose.jpg"
     },
     {
-      "title": "Quick Study",
-      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-23T21:35:13+00:00",
-      "image": "https://static.simonwillison.net/static/2026/heron-oil.webp"
-    },
-    {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "link": "https://huggingface.co/blog/torch-neuronx-model-support",
       "source": "Hugging Face",
@@ -1041,14 +1049,6 @@
       "category": "Tools",
       "published": "2026-10-22T22:24:34+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
-    },
-    {
-      "title": "Designing an AI serving harness built to last",
-      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-10-22T21:17:29+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840"
     },
     {
       "title": "Ensemble forecasting with IBM Granite time-series models",
