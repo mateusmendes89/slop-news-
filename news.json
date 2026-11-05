@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-11-05T10:08:57.068150+00:00",
+  "generated_at": "2026-11-05T19:17:45.644250+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T19:12:39+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T19:06:12+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T18:02:27+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800"
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T18:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675"
+    },
+    {
+      "title": "Quoting Paul Ford",
+      "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-05T17:34:03+00:00",
+      "image": ""
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI",
+      "category": "Models",
+      "published": "2026-11-05T17:00:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T16:16:45+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T15:19:05+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024"
+    },
+    {
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T14:42:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805"
+    },
+    {
+      "title": "Muse has a voice mode now",
+      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T14:03:04-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T14:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=1024"
+    },
+    {
+      "title": "Claude AI can plug directly into your bank account",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T13:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T13:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800"
+    },
+    {
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T12:51:52-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-05T12:00:41+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg"
+    },
+    {
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T12:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T12:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T12:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200"
+    },
+    {
+      "title": "The hidden supply chain costs of the AI boom",
+      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T10:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T10:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-05T09:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T05:45:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
       "link": "https://arxiv.org/abs/2611.05390",
@@ -163,6 +339,14 @@
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-05T02:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "source": "TechCrunch AI",
@@ -177,6 +361,14 @@
       "category": "Business",
       "published": "2026-11-05T01:02:14+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-05T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png"
     },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -275,28 +467,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T16:51:35+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
-    },
-    {
       "title": "17 better ways Elon Musk could have wasted $446 million",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
       "source": "The Verge AI",
       "category": "Business",
       "published": "2026-11-04T16:45:00-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T16:17:22+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200"
     },
     {
       "title": "datasette-llm 0.1a10",
@@ -307,52 +483,12 @@
       "image": ""
     },
     {
-      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T15:23:24-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "link": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-04T14:30:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T13:26:07-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T13:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "ChatGPT will now make you animated GIFs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T13:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T13:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
     },
     {
       "title": "Securing the agentic enterprise with data lineage",
@@ -363,44 +499,12 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840"
     },
     {
-      "title": "Data centers lost the midterms",
-      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T11:05:39-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T10:58:45-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T09:46:01-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "A thousand fewer paths to root",
       "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-04T08:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T07:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
@@ -443,30 +547,6 @@
       "image": "https://static.simonwillison.net/static/2026/datasette-agent-panel.webp"
     },
     {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T22:41:03+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798"
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T22:19:53+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T21:43:08+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801"
-    },
-    {
       "title": "llm 0.37.1",
       "link": "https://simonwillison.net/2026/Nov/3/llm/",
       "source": "Simon Willison",
@@ -475,36 +555,12 @@
       "image": ""
     },
     {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T21:05:55+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Palantir-Alex-Karp.png?resize=1200,688"
-    },
-    {
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
       "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-11-03T20:39:55+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T19:34:43+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420"
-    },
-    {
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T18:42:16+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800"
     },
     {
       "title": "Google will let schools skip AI tools, but they have to give up search, too",
@@ -521,14 +577,6 @@
       "category": "Tools",
       "published": "2026-11-03T17:15:21+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png"
-    },
-    {
-      "title": "Anthropic is still grappling with the economics of compute",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T17:07:01+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800"
     },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -651,16 +699,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T18:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T18:00:00+00:00",
@@ -859,14 +907,6 @@
       "image": ""
     },
     {
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-30T00:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
       "source": "Simon Willison",
@@ -889,14 +929,6 @@
       "category": "Tools",
       "published": "2026-10-29T17:00:26+00:00",
       "image": "https://static.simonwillison.net/static/2026-10-29/IMG_9406.webp"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-29T17:00:00+00:00",
-      "image": ""
     },
     {
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
@@ -995,14 +1027,6 @@
       "image": "https://static.simonwillison.net/static/2026/github-numbers.jpg"
     },
     {
-      "title": "The October inflection point for vibe game development",
-      "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-28T13:55:15+00:00",
-      "image": "https://static.simonwillison.net/static/2026/tree-appreciator.webp"
-    },
-    {
       "title": "Pairing industrial AI autonomy and human control",
       "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
       "source": "MIT Technology Review AI",
@@ -1049,14 +1073,6 @@
       "category": "Models",
       "published": "2026-10-27T16:00:22+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png"
-    },
-    {
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-26T20:04:16+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png"
     },
     {
       "title": "Our newest AI Quest: Mapping the human brain",
@@ -1137,14 +1153,6 @@
       "category": "Tools",
       "published": "2026-10-19T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/hf-torchneuron/thumbnail.png"
-    },
-    {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "link": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-16T00:00:00+00:00",
-      "image": "https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg"
     },
     {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
@@ -1273,14 +1281,6 @@
       "category": "Models",
       "published": "2026-09-09T16:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Recreating a 70-year love story frame by frame",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "category": "Models",
-      "published": "2026-09-09T16:00:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"
     }
   ]
 }
