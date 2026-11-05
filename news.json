@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-11-04T19:11:40.591150+00:00",
+  "generated_at": "2026-11-05T01:13:34.088301+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-04T22:45:09+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-04T22:13:16+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-04T21:56:01+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-04T21:25:44+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-04T21:10:56+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653"
+    },
+    {
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-04T20:55:50+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg"
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-04T19:30:04+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024"
+    },
+    {
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-04T19:29:52+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
+    },
     {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -27,12 +91,28 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png"
     },
     {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-04T17:42:15-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
       "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-04T16:51:35+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+    },
+    {
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-04T16:45:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
@@ -49,6 +129,14 @@
       "category": "Tools",
       "published": "2026-11-04T15:26:02+00:00",
       "image": ""
+    },
+    {
+      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-04T15:23:24-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -121,6 +209,14 @@
       "category": "Business",
       "published": "2026-11-04T09:46:01-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-04T08:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
@@ -307,6 +403,22 @@
       "image": ""
     },
     {
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-04T00:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-04T00:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "datasette-agent 0.5a0",
       "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
       "source": "Simon Willison",
@@ -363,14 +475,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg"
     },
     {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-03T19:42:10-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
       "source": "TechCrunch AI",
@@ -385,14 +489,6 @@
       "category": "Business",
       "published": "2026-11-03T18:42:16+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800"
-    },
-    {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-03T18:37:45-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Google will let schools skip AI tools, but they have to give up search, too",
@@ -443,36 +539,12 @@
       "image": ""
     },
     {
-      "title": "Those Jeff Bezos hair transplant photos are very fake",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-03T16:01:07-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Apple restricts dating apps and AI companions to users 18 and up",
       "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-03T15:38:27+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
-    },
-    {
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T14:30:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking_2.jpg?resize=1200,800"
-    },
-    {
-      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T14:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
     },
     {
       "title": "Accelerating engineering for the physical world",
@@ -507,14 +579,6 @@
       "image": ""
     },
     {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T07:20:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
-    },
-    {
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
       "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
       "source": "Simon Willison",
@@ -537,30 +601,6 @@
       "category": "Research",
       "published": "2026-11-03T04:18:47+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600"
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T03:30:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800"
-    },
-    {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T01:49:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T00:35:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
     },
     {
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
@@ -595,14 +635,6 @@
       "image": ""
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-02T23:13:53+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900"
-    },
-    {
       "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
       "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
       "source": "Ars Technica AI",
@@ -619,16 +651,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T18:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T18:00:00+00:00",
@@ -899,30 +931,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600"
     },
     {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-29T09:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-29T07:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "link": "https://openai.com/index/credit-saison",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-29T00:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "link": "https://huggingface.co/blog/announcing-project-protostar",
       "source": "Hugging Face",
@@ -1049,14 +1057,6 @@
       "category": "Models",
       "published": "2026-10-26T20:04:16+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png"
-    },
-    {
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-26T18:50:41+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg"
     },
     {
       "title": "Our newest AI Quest: Mapping the human brain",
