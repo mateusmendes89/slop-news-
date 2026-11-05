@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-11-05T01:13:34.088301+00:00",
+  "generated_at": "2026-11-05T10:08:57.068150+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "link": "https://arxiv.org/abs/2611.05390",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "link": "https://arxiv.org/abs/2611.05391",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "link": "https://arxiv.org/abs/2611.05392",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "link": "https://arxiv.org/abs/2611.05393",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "link": "https://arxiv.org/abs/2611.05394",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+      "link": "https://arxiv.org/abs/2611.05450",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "link": "https://arxiv.org/abs/2611.05459",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+      "link": "https://arxiv.org/abs/2611.05512",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+      "link": "https://arxiv.org/abs/2611.05524",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+      "link": "https://arxiv.org/abs/2611.05542",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Iterated creation, grading, and revision of data science projects by language models",
+      "link": "https://arxiv.org/abs/2611.05548",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders",
+      "link": "https://arxiv.org/abs/2611.05549",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "VirtualTrialHarness: Coordinating Agentic Operationalization of Virtual Trial Protocols Across Complex Clinical Schemas",
+      "link": "https://arxiv.org/abs/2611.05551",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
+      "link": "https://arxiv.org/abs/2611.05556",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
+      "link": "https://arxiv.org/abs/2611.05581",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Anduin: A sybil-resistant agentic marketplace reputation system",
+      "link": "https://arxiv.org/abs/2611.05586",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
+      "link": "https://arxiv.org/abs/2611.05590",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Hybrid Spark: Adaptive Speculative Decoding That Lets the Content Choose the Drafter",
+      "link": "https://arxiv.org/abs/2611.05611",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+      "link": "https://arxiv.org/abs/2611.05620",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
+      "link": "https://arxiv.org/abs/2611.05632",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T01:26:22+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T01:02:14+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677"
+    },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -235,166 +411,6 @@
       "image": ""
     },
     {
-      "title": "Alignment Faking Depends on the Value, Not Just the Model",
-      "link": "https://arxiv.org/abs/2611.03650",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
-      "link": "https://arxiv.org/abs/2611.03651",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
-      "link": "https://arxiv.org/abs/2611.03662",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
-      "link": "https://arxiv.org/abs/2611.03684",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
-      "link": "https://arxiv.org/abs/2611.03685",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
-      "link": "https://arxiv.org/abs/2611.03698",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
-      "link": "https://arxiv.org/abs/2611.03713",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
-      "link": "https://arxiv.org/abs/2611.03721",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
-      "link": "https://arxiv.org/abs/2611.03723",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "From Logs to Faults: Reference-Free Fault Localization for Retrieval-Augmented Generation Pipelines",
-      "link": "https://arxiv.org/abs/2611.03725",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Reasoning is topologically simple",
-      "link": "https://arxiv.org/abs/2611.03739",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "VagueBench: Benchmarking the Robustness of Embodied Agents on Ambient Context Illusions",
-      "link": "https://arxiv.org/abs/2611.03765",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "El Agente F\\'armaco: A Scalable AI Scientist for Drug Discovery",
-      "link": "https://arxiv.org/abs/2611.03832",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Low-Rank Hierarchical Merging for Efficient Long-to-Short Reasoning",
-      "link": "https://arxiv.org/abs/2611.03834",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LaplaceDiag: Fault Diagnosis through Changes in Learned Actuator Effects",
-      "link": "https://arxiv.org/abs/2611.03849",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Performance, Scalability and Maintenance: An Experimental Study of RPA vs. Autonomous Agents in the Healthcare Domain",
-      "link": "https://arxiv.org/abs/2611.03853",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Predictive gains, causal losses: why interventional competence cannot be learned from data alone",
-      "link": "https://arxiv.org/abs/2611.03861",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ProofPaths: An AI Agent Framework for Assessing Student Reasoning",
-      "link": "https://arxiv.org/abs/2611.03882",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "What Is This Memory Useful For? Measuring Task-Conditioned Utility in Long-Term Agent Memory",
-      "link": "https://arxiv.org/abs/2611.03930",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "We Ran a Research Sprint With AI. The AI Worked. The Research Didn't",
-      "link": "https://arxiv.org/abs/2611.03946",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
       "title": "datasette-apps 0.3a0",
       "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
       "source": "Simon Willison",
@@ -523,28 +539,12 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png"
     },
     {
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T16:30:34+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
-    },
-    {
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "source": "Simon Willison",
       "category": "Tools",
       "published": "2026-11-03T16:29:48+00:00",
       "image": ""
-    },
-    {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-03T15:38:27+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
     },
     {
       "title": "Accelerating engineering for the physical world",
