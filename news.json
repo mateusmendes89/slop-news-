@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-11-05T19:17:45.644250+00:00",
+  "generated_at": "2026-11-06T01:19:00.094270+00:00",
   "count": 160,
   "items": [
     {
-      "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T22:40:55+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675"
+    },
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-05T21:40:36+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
+    },
+    {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-05T21:39:40+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-05T20:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-05T19:48:28+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T19:37:56-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-05T19:35:16+00:00",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
       "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-05T19:12:39+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899"
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T19:06:12-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
@@ -41,6 +105,14 @@
       "category": "Tools",
       "published": "2026-11-05T17:34:03+00:00",
       "image": ""
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-05T17:26:50-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -171,12 +243,12 @@
       "image": ""
     },
     {
-      "title": "Big Tech’s big AI buildout will not end until someone stops it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-05T05:45:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-05T08:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
@@ -363,6 +435,22 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677"
     },
     {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-05T00:45:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "link": "https://openai.com/index/franklin-templeton",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-05T00:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "link": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face",
@@ -427,14 +515,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024"
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T19:29:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
-    },
-    {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Technology Review AI",
@@ -443,36 +523,12 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600"
     },
     {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T18:44:57+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/55593309776_55e4a08b03_o.jpg?resize=1200,800"
-    },
-    {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "source": "Hugging Face",
       "category": "Tools",
       "published": "2026-11-04T17:50:10+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png"
-    },
-    {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T17:42:15-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-04T16:45:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "datasette-llm 0.1a10",
@@ -699,16 +755,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T18:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T18:00:00+00:00",
@@ -776,22 +832,6 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T09:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-02T00:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-02T00:00:00+00:00",
       "image": ""
     },
     {
@@ -867,14 +907,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg"
     },
     {
-      "title": "nemotron-halloween",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-30T17:57:24+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png"
-    },
-    {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "source": "Ars Technica AI",
@@ -889,22 +921,6 @@
       "category": "Models",
       "published": "2026-10-30T16:53:49+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-30T09:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-10-30T09:00:00+00:00",
-      "image": ""
     },
     {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
@@ -1051,28 +1067,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg"
     },
     {
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-27T18:49:08+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg"
-    },
-    {
       "title": "Build specialized multimodal models with LFM3",
       "link": "https://huggingface.co/blog/LiquidAI/lfm3",
       "source": "Hugging Face",
       "category": "Tools",
       "published": "2026-10-27T17:16:52+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png"
-    },
-    {
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-27T16:00:22+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png"
     },
     {
       "title": "Our newest AI Quest: Mapping the human brain",
