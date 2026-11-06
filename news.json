@@ -1,7 +1,151 @@
 {
-  "generated_at": "2026-11-06T10:12:57.938409+00:00",
+  "generated_at": "2026-11-06T18:44:12.874527+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-06T18:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1368458052.jpg?resize=1200,750"
+    },
+    {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-06T17:43:02+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-06T17:23:52+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800"
+    },
+    {
+      "title": "Quoting Nilay Patel",
+      "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-06T17:13:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-06T16:19:12+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-06T15:54:47+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-06T14:10:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-06T14:00:48+00:00",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg"
+    },
+    {
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-06T13:10:10-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528,0,91.924715693647,74.471659887186"
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-06T13:02:16+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-06T13:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675"
+    },
+    {
+      "title": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-06T12:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Big Tech lost big in the 2026 election",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-06T11:38:02-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-06T11:34:39-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-06T10:00:00+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600"
+    },
+    {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-06T09:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-06T08:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-06T06:55:19-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -208,7 +352,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-05T20:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/jGREsWDV2hRUdMMneD8CA/7b49d70f93e4b4d70623efd535a79a2d/og.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Meta says US users can now video chat with their Muse AI avatar",
@@ -296,7 +440,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-05T17:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7mnhGajDx1KzwFEHEltZwB/1c108b90ec9cc84d0c309b9a1ad4fbe0/australian-universities-ai-native-graduates-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -347,28 +491,12 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=1024"
     },
     {
-      "title": "Claude AI can plug directly into your bank account",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-05T13:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
       "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-05T13:00:00+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800"
-    },
-    {
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-05T12:51:52-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
@@ -379,22 +507,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg"
     },
     {
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-05T12:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-05T12:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
       "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
       "source": "TechCrunch AI",
@@ -403,28 +515,12 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200"
     },
     {
-      "title": "The hidden supply chain costs of the AI boom",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-05T10:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-05T10:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "link": "https://openai.com/index/introducing-gpt-6-cyber",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-05T09:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Merge builds product and business tools with OpenAI technology",
@@ -432,7 +528,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-05T08:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ioOJt6IEab7sdVSiBFTET/fb2a79d20b4639407ca0b35af68a443c/og.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Setting a new standard for responsible AI infrastructure",
@@ -440,7 +536,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-05T02:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3tfG1ium2HchPnPJartCV6/bd2d0a4c101b0a41440cc45adefa35cd/setting-a-new-standard-for-responsible-ai-infrastructure-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -451,20 +547,12 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
     },
     {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-05T01:02:14+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677"
-    },
-    {
       "title": "Flipsnack grows product signups with conversion optimization",
       "link": "https://openai.com/ads/customers/flipsnack",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-05T00:45:15+00:00",
-      "image": "https://cdn.openai.com/mdx-assets/67bd281e-a14e-4cb9-94f8-96bd17b694f6/flipsnack-printed-motion-open-graph.94ba6cde.png"
+      "image": ""
     },
     {
       "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -472,7 +560,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-05T00:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/74o0UUnMZMTeekQbCQPueA/470bb73b32ea24fa27a993e7111c15e5/franklin-templeton-seo.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -481,46 +569,6 @@
       "category": "Tools",
       "published": "2026-11-05T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png"
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T22:45:09+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800"
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T22:13:16+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T21:56:01+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T21:25:44+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-04T21:10:56+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653"
     },
     {
       "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
@@ -560,7 +608,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-04T14:30:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5lDkYRSw86lFyHulgkyVVr/5b20bd6b90c3d87c33b780884b48123a/openai-to-acquire-pierre-computer-company-inc-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Securing the agentic enterprise with data lineage",
@@ -576,7 +624,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-04T08:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
@@ -584,7 +632,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-04T07:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5kxMZV1Js4071yUAa9rsyx/2ac76c7318411b493ec032afb3d7aaf9/daybreak-red-aws-govcloud-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "datasette-apps 0.3a0",
@@ -600,7 +648,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-04T00:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
@@ -608,7 +656,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-04T00:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/wbLuf3JmoXr8PLJs6ENpY/a84a25ea67b1c35ae01cfad0ee60e1c7/og.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "datasette-agent 0.5a0",
@@ -643,14 +691,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
     },
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-11-03T17:15:21+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png"
-    },
-    {
       "title": "Palette: teaching a small model to build decks in your design language",
       "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
       "source": "Hugging Face",
@@ -672,7 +712,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-03T12:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3NAeFNOstkEE0aSxayt8NT/cedb470d8c0bcd7e6a2ca828c1db136c/accelerating-engineering-physical-world-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "How “reverse game theory” could keep AI agents in check",
@@ -688,7 +728,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-03T08:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/36h62E2b83Pzjfkrm6ZnOF/e611d7923f6c0533eed4d76ea9b48c08/cisco-cyber-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Heimstaden is changing residential real estate management with AI",
@@ -696,7 +736,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-03T08:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/BJ4nJzcUdBNquMyox1gEz/27e1824d4f3565364c2a0aa36c28131d/heimstaden-bostad-terracotta-seo-image-1920x1080.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
@@ -728,7 +768,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-03T00:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/12cWiOrhEJBVjJpSKoRNzC/62cac2e1b99cd5ba56661755d6945157/jill-hazelbaker-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "CWE-bench v2: More coverage, quality, and transparency",
@@ -776,15 +816,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T18:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6YGqAlQzlUWYvYNTeDnfcM/e5455b9d34b33916246eadda9c1b0959/rewarding-defenders-with-bigger-bug-bounties-social.png?w=1600&h=900&fit=fill"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-02T18:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3I6XNOAyDMl6T0tummrXmo/b10602bfeb5ca42409706b86011ceacb/preparing-our-next-security-sprint-to-harden-openai-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "The latest AI news we announced in October 2026",
@@ -808,7 +840,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T15:30:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/CMZECnCACxZO52Dqy7SnB/d7451310a4c165a396517dc7387b9b71/scaling-git-at-openai-seo-card.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "Introducing the Grid Protectors Program",
@@ -816,7 +848,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-02T15:00:00+00:00",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/0147SbQFof5ozkgFJTdG0j/1daae8bb107fb504ef83be52e10e550f/introducing-the-grid-protectors-program-social.png?w=1600&h=900&fit=fill"
+      "image": ""
     },
     {
       "title": "The U.S. Census Bureau and “Super Intelligence”",
@@ -1041,38 +1073,6 @@
       "category": "Models",
       "published": "2026-10-28T17:46:32+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
-    },
-    {
-      "title": "GitHub Octoverse 2026",
-      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-28T16:45:23+00:00",
-      "image": "https://static.simonwillison.net/static/2026/github-numbers.jpg"
-    },
-    {
-      "title": "Pairing industrial AI autonomy and human control",
-      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-10-28T12:00:00+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2264572193.jpg?resize=1200,600"
-    },
-    {
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-27T21:50:04+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg"
-    },
-    {
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-10-27T21:31:14+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg"
     },
     {
       "title": "Build specialized multimodal models with LFM3",
