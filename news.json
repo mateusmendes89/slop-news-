@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-07T00:32:42.711918+00:00",
-  "count": 160,
+  "generated_at": "2026-11-07T09:29:02.263456+00:00",
+  "count": 140,
   "items": [
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-07T01:40:28+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+    },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
@@ -203,166 +211,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
     },
     {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "link": "https://arxiv.org/abs/2611.06962",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "link": "https://arxiv.org/abs/2611.06972",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "link": "https://arxiv.org/abs/2611.06977",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "link": "https://arxiv.org/abs/2611.06984",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "link": "https://arxiv.org/abs/2611.06989",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "link": "https://arxiv.org/abs/2611.06995",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-      "link": "https://arxiv.org/abs/2611.06996",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-      "link": "https://arxiv.org/abs/2611.07048",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
-      "link": "https://arxiv.org/abs/2611.07051",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-      "link": "https://arxiv.org/abs/2611.07066",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
-      "link": "https://arxiv.org/abs/2611.07073",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Synthesizing symbolic models of human and machine reasoning at scale",
-      "link": "https://arxiv.org/abs/2611.07088",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
-      "link": "https://arxiv.org/abs/2611.07123",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
-      "link": "https://arxiv.org/abs/2611.07247",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
-      "link": "https://arxiv.org/abs/2611.07296",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "EnvOpt: Automated Optimization for Agent Environments",
-      "link": "https://arxiv.org/abs/2611.07372",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
-      "link": "https://arxiv.org/abs/2611.07464",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards",
-      "link": "https://arxiv.org/abs/2611.07482",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
-      "link": "https://arxiv.org/abs/2611.07508",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions",
-      "link": "https://arxiv.org/abs/2611.07520",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-06T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI",
@@ -513,14 +361,6 @@
       "category": "Business",
       "published": "2026-11-05T14:42:00+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805"
-    },
-    {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-05T14:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=1024"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
