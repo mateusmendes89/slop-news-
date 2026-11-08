@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-07T21:16:22.042086+00:00",
+  "generated_at": "2026-11-08T03:43:38.209606+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-07T23:57:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-07T22:07:22+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-07T21:17:08+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
@@ -345,22 +369,6 @@
       "category": "Business",
       "published": "2026-11-05T16:16:45+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800"
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-05T15:19:05+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024"
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-05T14:42:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
@@ -881,14 +889,6 @@
       "category": "Tools",
       "published": "2026-10-29T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png"
-    },
-    {
-      "title": "Quoting Ted Sanders",
-      "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-28T23:23:21+00:00",
-      "image": ""
     },
     {
       "title": "Creating AI value with enterprise context",
