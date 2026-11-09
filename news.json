@@ -1,7 +1,191 @@
 {
-  "generated_at": "2026-11-09T00:24:04.690610+00:00",
-  "count": 140,
+  "generated_at": "2026-11-09T10:44:32.511581+00:00",
+  "count": 160,
   "items": [
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-09T05:26:29+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+    },
+    {
+      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+      "link": "https://arxiv.org/abs/2611.08572",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+      "link": "https://arxiv.org/abs/2611.08613",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+      "link": "https://arxiv.org/abs/2611.08626",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
+      "link": "https://arxiv.org/abs/2611.08640",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+      "link": "https://arxiv.org/abs/2611.08644",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+      "link": "https://arxiv.org/abs/2611.08647",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
+      "link": "https://arxiv.org/abs/2611.08666",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
+      "link": "https://arxiv.org/abs/2611.08669",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals",
+      "link": "https://arxiv.org/abs/2611.08682",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine",
+      "link": "https://arxiv.org/abs/2611.08684",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Memory-Aware Multi-Agent Architecture with LLM-based Orchestration for Conversational Recommendation",
+      "link": "https://arxiv.org/abs/2611.08718",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+      "link": "https://arxiv.org/abs/2611.08741",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling",
+      "link": "https://arxiv.org/abs/2611.08752",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate",
+      "link": "https://arxiv.org/abs/2611.08756",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Jacobian-Causal Memory Control for Persistent Memory in Language Model Systems",
+      "link": "https://arxiv.org/abs/2611.08779",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Aligning, Fast and Slow: A Control-Theoretic Oversight Framework for Long-Horizon Trajectories and Maintained Deployments",
+      "link": "https://arxiv.org/abs/2611.08781",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The Matthews Correlation Coefficient: Fifty years",
+      "link": "https://arxiv.org/abs/2611.08799",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents",
+      "link": "https://arxiv.org/abs/2611.08811",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks",
+      "link": "https://arxiv.org/abs/2611.08834",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Solver-Admitted Metamorphic Testing of Learned Network Optimization Surrogates",
+      "link": "https://arxiv.org/abs/2611.08837",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-09T04:32:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-09T04:25:05+00:00",
+      "image": "https://static.simonwillison.net/static/2026/details-summary-pr.gif"
+    },
     {
       "title": "parse_number() as a SQLite extension: C vs Rust",
       "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
@@ -27,7 +211,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
       "source": "The Verge AI",
       "category": "Business",
@@ -73,6 +257,14 @@
       "category": "Business",
       "published": "2026-11-07T21:17:08+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "title": "Terry Pratchett's Study",
+      "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-07T19:34:24+00:00",
+      "image": ""
     },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
@@ -347,14 +539,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800"
     },
     {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-05T18:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675"
-    },
-    {
       "title": "Quoting Paul Ford",
       "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "source": "Simon Willison",
@@ -553,6 +737,14 @@
       "category": "Models",
       "published": "2026-11-03T17:54:43+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
+    },
+    {
+      "title": "AI is destroying my CS degree",
+      "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-03T16:42:02+00:00",
+      "image": ""
     },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -755,22 +947,6 @@
       "image": ""
     },
     {
-      "title": "datasette-llm 0.1a9",
-      "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-31T22:10:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "dbreunig/nesformer",
-      "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-30T21:59:22+00:00",
-      "image": ""
-    },
-    {
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
       "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
       "source": "Ars Technica AI",
@@ -819,28 +995,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg"
     },
     {
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-29T22:48:29+00:00",
-      "image": ""
-    },
-    {
       "title": "Trump declares robot imports a national security threat",
       "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-10-29T19:07:53+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg"
-    },
-    {
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-29T17:00:26+00:00",
-      "image": "https://static.simonwillison.net/static/2026-10-29/IMG_9406.webp"
     },
     {
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
