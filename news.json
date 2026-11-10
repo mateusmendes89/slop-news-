@@ -1,7 +1,215 @@
 {
-  "generated_at": "2026-11-09T21:48:17.619316+00:00",
+  "generated_at": "2026-11-10T05:29:31.097360+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+      "link": "https://arxiv.org/abs/2611.08572",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+      "link": "https://arxiv.org/abs/2611.08613",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+      "link": "https://arxiv.org/abs/2611.08626",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
+      "link": "https://arxiv.org/abs/2611.08640",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+      "link": "https://arxiv.org/abs/2611.08644",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+      "link": "https://arxiv.org/abs/2611.08647",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
+      "link": "https://arxiv.org/abs/2611.08666",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
+      "link": "https://arxiv.org/abs/2611.08669",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals",
+      "link": "https://arxiv.org/abs/2611.08682",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine",
+      "link": "https://arxiv.org/abs/2611.08684",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Memory-Aware Multi-Agent Architecture with LLM-based Orchestration for Conversational Recommendation",
+      "link": "https://arxiv.org/abs/2611.08718",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+      "link": "https://arxiv.org/abs/2611.08741",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling",
+      "link": "https://arxiv.org/abs/2611.08752",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate",
+      "link": "https://arxiv.org/abs/2611.08756",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Jacobian-Causal Memory Control for Persistent Memory in Language Model Systems",
+      "link": "https://arxiv.org/abs/2611.08779",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Aligning, Fast and Slow: A Control-Theoretic Oversight Framework for Long-Horizon Trajectories and Maintained Deployments",
+      "link": "https://arxiv.org/abs/2611.08781",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The Matthews Correlation Coefficient: Fifty years",
+      "link": "https://arxiv.org/abs/2611.08799",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents",
+      "link": "https://arxiv.org/abs/2611.08811",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks",
+      "link": "https://arxiv.org/abs/2611.08834",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Solver-Admitted Metamorphic Testing of Learned Network Optimization Surrogates",
+      "link": "https://arxiv.org/abs/2611.08837",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-10T01:27:12+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024"
+    },
+    {
+      "title": "llm-anthropic 0.31",
+      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-09T23:58:46+00:00",
+      "image": "https://static.simonwillison.net/static/2026/fable-5.2-xhigh.avif"
+    },
+    {
+      "title": "Locating the source of a mysterious beep with Claude",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-09T23:57:21+00:00",
+      "image": "https://static.simonwillison.net/static/2026/beep-locator-ui.webp"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-09T23:28:37+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-09T22:46:09+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-09T22:23:42+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+    },
     {
       "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
       "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
@@ -17,6 +225,14 @@
       "category": "Research",
       "published": "2026-11-09T19:35:33+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600"
+    },
+    {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-09T19:28:49-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
@@ -35,12 +251,36 @@
       "image": ""
     },
     {
+      "title": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-09T18:51:58-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-09T18:47:46-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
       "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-09T18:09:52+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-09T18:07:59-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
@@ -131,6 +371,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-09T13:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Innovating with AI in the special chemicals industry",
       "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
       "source": "MIT Technology Review AI",
@@ -171,20 +419,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Hold up — I had a great time talking to the RIAA guy",
-      "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-09T10:30:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-09T09:30:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-09T08:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -201,166 +441,6 @@
       "category": "Business",
       "published": "2026-11-09T05:26:29+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
-    },
-    {
-      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
-      "link": "https://arxiv.org/abs/2611.08572",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
-      "link": "https://arxiv.org/abs/2611.08613",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
-      "link": "https://arxiv.org/abs/2611.08626",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
-      "link": "https://arxiv.org/abs/2611.08640",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
-      "link": "https://arxiv.org/abs/2611.08644",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
-      "link": "https://arxiv.org/abs/2611.08647",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
-      "link": "https://arxiv.org/abs/2611.08666",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
-      "link": "https://arxiv.org/abs/2611.08669",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals",
-      "link": "https://arxiv.org/abs/2611.08682",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine",
-      "link": "https://arxiv.org/abs/2611.08684",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Memory-Aware Multi-Agent Architecture with LLM-based Orchestration for Conversational Recommendation",
-      "link": "https://arxiv.org/abs/2611.08718",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
-      "link": "https://arxiv.org/abs/2611.08741",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling",
-      "link": "https://arxiv.org/abs/2611.08752",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate",
-      "link": "https://arxiv.org/abs/2611.08756",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Jacobian-Causal Memory Control for Persistent Memory in Language Model Systems",
-      "link": "https://arxiv.org/abs/2611.08779",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Aligning, Fast and Slow: A Control-Theoretic Oversight Framework for Long-Horizon Trajectories and Maintained Deployments",
-      "link": "https://arxiv.org/abs/2611.08781",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "The Matthews Correlation Coefficient: Fifty years",
-      "link": "https://arxiv.org/abs/2611.08799",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents",
-      "link": "https://arxiv.org/abs/2611.08811",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks",
-      "link": "https://arxiv.org/abs/2611.08834",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Solver-Admitted Metamorphic Testing of Learned Network Optimization Surrogates",
-      "link": "https://arxiv.org/abs/2611.08837",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "The Web Is More Than Enough, by Paul Ford",
@@ -393,22 +473,6 @@
       "category": "Business",
       "published": "2026-11-08T21:00:11+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-08T17:54:50-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-08T15:22:39-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -483,28 +547,12 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
     },
     {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-06T18:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1368458052.jpg?resize=1200,750"
-    },
-    {
       "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
       "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-11-06T17:43:02+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-06T17:23:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800"
     },
     {
       "title": "Quoting Nilay Patel",
@@ -521,22 +569,6 @@
       "category": "Models",
       "published": "2026-11-06T16:19:12+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-06T15:54:47+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
-    },
-    {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-06T14:10:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725"
     },
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -851,14 +883,6 @@
       "image": ""
     },
     {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-03T08:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
       "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
       "source": "Simon Willison",
@@ -881,14 +905,6 @@
       "category": "Research",
       "published": "2026-11-03T04:18:47+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600"
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-03T00:00:00+00:00",
-      "image": ""
     },
     {
       "title": "CWE-bench v2: More coverage, quality, and transparency",
@@ -968,22 +984,6 @@
       "source": "Simon Willison",
       "category": "Tools",
       "published": "2026-11-01T23:24:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Quoting Kyle Kingsbury",
-      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-01T16:49:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "How We Took Over ChatGPT Accounts",
-      "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-10-31T23:15:22+00:00",
       "image": ""
     },
     {
