@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:59:45.037683+00:00",
+  "generated_at": "2026-11-11T13:20:49.962306+00:00",
   "count": 160,
   "items": [
     {
@@ -9,6 +9,198 @@
       "category": "Models",
       "published": "2026-11-12T00:00:00+00:00",
       "image": ""
+    },
+    {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source": "Google AI",
+      "category": "Models",
+      "published": "2026-11-11T09:00:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-11T08:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-11T07:30:51+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-11T05:01:16+00:00",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png"
+    },
+    {
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "link": "https://arxiv.org/abs/2611.12933",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "link": "https://arxiv.org/abs/2611.12934",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "link": "https://arxiv.org/abs/2611.12935",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "link": "https://arxiv.org/abs/2611.12936",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Tracing Psychometric Inference in Large Language Models",
+      "link": "https://arxiv.org/abs/2611.12937",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+      "link": "https://arxiv.org/abs/2611.12938",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+      "link": "https://arxiv.org/abs/2611.12940",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+      "link": "https://arxiv.org/abs/2611.12941",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+      "link": "https://arxiv.org/abs/2611.12942",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
+      "link": "https://arxiv.org/abs/2611.12950",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
+      "link": "https://arxiv.org/abs/2611.12953",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
+      "link": "https://arxiv.org/abs/2611.12954",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+      "link": "https://arxiv.org/abs/2611.12958",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
+      "link": "https://arxiv.org/abs/2611.12959",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "IIT Patna at \"ICPR 2026 TVRID Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera\"",
+      "link": "https://arxiv.org/abs/2611.12960",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
+      "link": "https://arxiv.org/abs/2611.12961",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
+      "link": "https://arxiv.org/abs/2611.12966",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
+      "link": "https://arxiv.org/abs/2611.12970",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ZeroPoint: Lightweight Energy-Based Decision Model",
+      "link": "https://arxiv.org/abs/2611.12992",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
+      "link": "https://arxiv.org/abs/2611.13006",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
@@ -315,6 +507,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "link": "https://openai.com/index/singapore-airlines-travel-work",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-10T08:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
       "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
       "source": "Simon Willison",
@@ -347,166 +547,6 @@
       "image": ""
     },
     {
-      "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-      "link": "https://arxiv.org/abs/2611.10045",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
-      "link": "https://arxiv.org/abs/2611.10048",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
-      "link": "https://arxiv.org/abs/2611.10049",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AYO: A Safe and Privacy-Preserving Platform for Studying Children's Interaction with LLMs",
-      "link": "https://arxiv.org/abs/2611.10054",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM",
-      "link": "https://arxiv.org/abs/2611.10089",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "The Infrastructure Divide: Analyzing Community Stance on Data Center Development via Reddit",
-      "link": "https://arxiv.org/abs/2611.10109",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
-      "link": "https://arxiv.org/abs/2611.10110",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "What Is the Value of AI-Involved Art? Evidence From a Juried In-Person Exhibition",
-      "link": "https://arxiv.org/abs/2611.10150",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "WorldMind: Test-Time Scaling for Visual Spatial Reasoning through Latent World Simulation",
-      "link": "https://arxiv.org/abs/2611.10151",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "DeepResearch RewardBench: Evaluating Reward Models for Deep Research Report",
-      "link": "https://arxiv.org/abs/2611.10156",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement",
-      "link": "https://arxiv.org/abs/2611.10165",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Key Institutional Considerations for Designing Effective Independent Verification Organizations",
-      "link": "https://arxiv.org/abs/2611.10168",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AVCORP: Identifying and Resisting Deception via Communication Theory and Theory of Mind",
-      "link": "https://arxiv.org/abs/2611.10176",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Generative Active Learning for Label-Efficient Pan-Organ Ultrasound Diagnosis",
-      "link": "https://arxiv.org/abs/2611.10180",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
-      "link": "https://arxiv.org/abs/2611.10193",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Multi-GPU MoE Inference with Adaptive Expert Offloading",
-      "link": "https://arxiv.org/abs/2611.10219",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ProofDiff: Auditable Argument-Level Comparison of AI-Generated Mathematical Proofs",
-      "link": "https://arxiv.org/abs/2611.10233",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ScreenProof: Where Is This Screen Wrong? Finding UI Faults Without a Reference",
-      "link": "https://arxiv.org/abs/2611.10234",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "CoRA-Bench: Evaluating Evidence Preservation by Context Selectors Under Token Budgets",
-      "link": "https://arxiv.org/abs/2611.10238",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Is Recursive Self-Improvement Safe?",
-      "link": "https://arxiv.org/abs/2611.10261",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
       "title": "Yonkers Rises",
       "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
       "source": "Simon Willison",
@@ -521,6 +561,14 @@
       "category": "Business",
       "published": "2026-11-10T01:27:12+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024"
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "link": "https://openai.com/index/cogent-security",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-10T00:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -561,14 +609,6 @@
       "category": "Business",
       "published": "2026-11-09T23:28:37+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
-    },
-    {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-09T22:46:09+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
     },
     {
       "title": "The backlash about data centers might really just be about electricity",
@@ -851,14 +891,6 @@
       "image": ""
     },
     {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "link": "https://openai.com/index/franklin-templeton",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-05T00:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "link": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face",
@@ -899,28 +931,12 @@
       "image": ""
     },
     {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-04T14:30:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Securing the agentic enterprise with data lineage",
       "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "source": "MIT Technology Review AI",
       "category": "Research",
       "published": "2026-11-04T13:00:00+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-04T07:00:00+00:00",
-      "image": ""
     },
     {
       "title": "datasette-apps 0.3a0",
@@ -1163,14 +1179,6 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png"
     },
     {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-21T16:04:43+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png"
-    },
-    {
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "source": "Google AI",
@@ -1273,14 +1281,6 @@
       "category": "Models",
       "published": "2026-09-15T13:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "source": "Google AI",
-      "category": "Models",
-      "published": "2026-09-14T19:00:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp"
     }
   ]
 }
