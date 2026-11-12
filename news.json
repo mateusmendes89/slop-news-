@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-11-11T21:40:49.505326+00:00",
-  "count": 160,
+  "generated_at": "2026-11-12T05:11:59.194482+00:00",
+  "count": 140,
   "items": [
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T03:13:10+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Congratulations-Nvidias-New-CEO.png?resize=1200,675"
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-12T00:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-11T23:50:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-11T23:28:45+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-11T23:17:05+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-11T22:03:25+00:00",
       "image": ""
     },
     {
@@ -91,6 +131,14 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png"
     },
     {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-11T17:44:36-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
       "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
       "source": "Ars Technica AI",
@@ -105,6 +153,14 @@
       "category": "Tools",
       "published": "2026-11-11T17:19:52+00:00",
       "image": ""
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-11T16:54:21-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
@@ -219,166 +275,6 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png"
     },
     {
-      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-      "link": "https://arxiv.org/abs/2611.12933",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "link": "https://arxiv.org/abs/2611.12934",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "link": "https://arxiv.org/abs/2611.12935",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "link": "https://arxiv.org/abs/2611.12936",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Tracing Psychometric Inference in Large Language Models",
-      "link": "https://arxiv.org/abs/2611.12937",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-      "link": "https://arxiv.org/abs/2611.12938",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "link": "https://arxiv.org/abs/2611.12940",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-      "link": "https://arxiv.org/abs/2611.12941",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "link": "https://arxiv.org/abs/2611.12942",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-      "link": "https://arxiv.org/abs/2611.12950",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
-      "link": "https://arxiv.org/abs/2611.12953",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
-      "link": "https://arxiv.org/abs/2611.12954",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-      "link": "https://arxiv.org/abs/2611.12958",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
-      "link": "https://arxiv.org/abs/2611.12959",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "IIT Patna at \"ICPR 2026 TVRID Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera\"",
-      "link": "https://arxiv.org/abs/2611.12960",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
-      "link": "https://arxiv.org/abs/2611.12961",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
-      "link": "https://arxiv.org/abs/2611.12966",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
-      "link": "https://arxiv.org/abs/2611.12970",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ZeroPoint: Lightweight Energy-Based Decision Model",
-      "link": "https://arxiv.org/abs/2611.12992",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
-      "link": "https://arxiv.org/abs/2611.13006",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "link": "https://openai.com/index/jiostar-vijay-seshadri",
       "source": "OpenAI",
@@ -475,38 +371,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp"
     },
     {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T18:49:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T17:30:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T17:04:19+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T15:54:08+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
-    },
-    {
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
       "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
       "source": "Ars Technica AI",
@@ -587,28 +451,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-10T11:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Introducing Businesses in ChatGPT",
       "link": "https://openai.com/index/introducing-businesses-chatgpt",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-10T10:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-10T09:06:54-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Closing the AI guidance gap in education",
@@ -1025,14 +873,6 @@
       "category": "Tools",
       "published": "2026-11-04T00:29:36+00:00",
       "image": ""
-    },
-    {
-      "title": "datasette-agent 0.5a0",
-      "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-03T23:13:45+00:00",
-      "image": "https://static.simonwillison.net/static/2026/datasette-agent-panel.webp"
     },
     {
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
