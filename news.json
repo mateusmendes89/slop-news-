@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-11-12T14:24:44.915044+00:00",
+  "generated_at": "2026-11-12T21:40:02.251629+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T21:35:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T21:27:10+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T20:26:47+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-12T20:16:24+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang.jpg?resize=1200,600"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/index/amplitude",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-12T20:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-12T19:59:59+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg"
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T19:27:45+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-12T19:23:03+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T19:11:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676"
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-12T19:07:35+00:00",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif"
+    },
+    {
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-12T18:57:45+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T18:39:23+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI",
+      "category": "Models",
+      "published": "2026-11-12T18:00:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T17:36:40+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675"
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T17:17:58+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T17:00:52+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T17:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T16:36:37+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T16:32:33+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T16:12:44+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024"
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T15:37:29+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv.jpg?resize=1200,1200"
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T15:18:14+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/norwest_team-partner-offsite-2026-1-copy.jpg?resize=1200,805"
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T15:02:28+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827"
+    },
+    {
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-12T14:50:17+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg"
+    },
+    {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T14:42:40-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
       "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
@@ -9,6 +209,62 @@
       "category": "Business",
       "published": "2026-11-12T13:26:25+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-613254398.jpg?resize=1200,800"
+    },
+    {
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T13:06:54-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "The Jensen Huang scandal is hardly over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T12:44:33-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T12:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T12:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Jensen Huang is out. What did China want from him?",
+      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T11:30:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T10:48:12-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T10:01:31-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -59,12 +315,12 @@
       "image": ""
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T23:50:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "link": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-12T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif"
     },
     {
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -99,54 +355,6 @@
       "image": ""
     },
     {
-      "title": "Why the data center you dread might never even be built",
-      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T20:15:15+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
-    },
-    {
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T20:12:01+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
-    },
-    {
-      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-      "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T20:02:14+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900"
-    },
-    {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T19:54:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024"
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T19:34:55+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800"
-    },
-    {
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T19:22:22+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
-    },
-    {
       "title": "Browse tools.simonwillison.net by tag",
       "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
       "source": "Simon Willison",
@@ -171,14 +379,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png"
     },
     {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-11T17:44:36-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
       "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
       "source": "Ars Technica AI",
@@ -193,30 +393,6 @@
       "category": "Tools",
       "published": "2026-11-11T17:19:52+00:00",
       "image": ""
-    },
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-11T16:54:21-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T16:16:07+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024"
-    },
-    {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T16:14:44+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
     },
     {
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
@@ -235,52 +411,12 @@
       "image": ""
     },
     {
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T15:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200"
-    },
-    {
       "title": "Google DeepMind just mathematically verified key parts of Signal",
       "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-11-11T14:08:57+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg"
-    },
-    {
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T14:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800"
-    },
-    {
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-11T11:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-11T10:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-11T09:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -297,14 +433,6 @@
       "category": "Models",
       "published": "2026-11-11T08:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T07:30:51+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800"
     },
     {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -347,22 +475,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
     },
     {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T21:08:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801"
-    },
-    {
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T20:52:13+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
-    },
-    {
       "title": "What happens to mathematics when AI becomes an oracle?",
       "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
       "source": "Ars Technica AI",
@@ -377,22 +489,6 @@
       "category": "Tools",
       "published": "2026-11-10T20:09:44+00:00",
       "image": "https://static.simonwillison.net/static/2026/carbon-pelican.webp"
-    },
-    {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T19:57:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200"
-    },
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-10T19:23:34+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799"
     },
     {
       "title": "Gemini Intelligence: New features, on more devices",
@@ -411,14 +507,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg"
     },
     {
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-10T14:04:05-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
       "source": "Google AI",
@@ -427,28 +515,12 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"
     },
     {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-10T13:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Google Cloud launches Gemini for healthcare.",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
       "source": "Google AI",
       "category": "Models",
       "published": "2026-11-10T13:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-10T12:32:47-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
@@ -811,14 +883,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg"
     },
     {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-05T09:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "link": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face",
@@ -875,22 +939,6 @@
       "image": ""
     },
     {
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-03T20:39:55+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg"
-    },
-    {
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
-      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-03T17:54:43+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
-    },
-    {
       "title": "Palette: teaching a small model to build decks in your design language",
       "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
       "source": "Hugging Face",
@@ -931,22 +979,6 @@
       "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png"
     },
     {
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-02T18:32:21+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg"
-    },
-    {
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-02T18:05:31+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
-    },
-    {
       "title": "The latest AI news we announced in October 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "source": "Google AI",
@@ -961,14 +993,6 @@
       "category": "Research",
       "published": "2026-11-02T17:00:00+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png"
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-11-02T13:10:32+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?w=840"
     },
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -1017,22 +1041,6 @@
       "category": "Models",
       "published": "2026-10-26T16:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-23T00:00:00+00:00",
-      "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-22T22:24:34+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
     },
     {
       "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -1113,14 +1121,6 @@
       "category": "Models",
       "published": "2026-09-15T16:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
-    },
-    {
-      "title": "Building AI to accelerate science and improve lives",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "source": "Google AI",
-      "category": "Models",
-      "published": "2026-09-15T16:00:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"
     }
   ]
 }
