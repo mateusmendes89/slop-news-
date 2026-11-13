@@ -1,7 +1,191 @@
 {
-  "generated_at": "2026-11-13T04:27:49.167119+00:00",
-  "count": 140,
+  "generated_at": "2026-11-13T13:43:50.839002+00:00",
+  "count": 160,
   "items": [
+    {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-13T12:52:19+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303769281.jpg?resize=1200,800"
+    },
+    {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-13T12:28:23+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676"
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-13T07:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "link": "https://arxiv.org/abs/2611.14544",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "link": "https://arxiv.org/abs/2611.14654",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "link": "https://arxiv.org/abs/2611.14681",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+      "link": "https://arxiv.org/abs/2611.14736",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "link": "https://arxiv.org/abs/2611.14765",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Rational Use of Time for Social Coordination in Humans and AI",
+      "link": "https://arxiv.org/abs/2611.14766",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+      "link": "https://arxiv.org/abs/2611.14769",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+      "link": "https://arxiv.org/abs/2611.14781",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+      "link": "https://arxiv.org/abs/2611.14794",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+      "link": "https://arxiv.org/abs/2611.14804",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+      "link": "https://arxiv.org/abs/2611.14844",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Open Challenges and Opportunities in Human-Agent Systems",
+      "link": "https://arxiv.org/abs/2611.14846",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Effective Teacher Support for Reasoning Distillation",
+      "link": "https://arxiv.org/abs/2611.14850",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
+      "link": "https://arxiv.org/abs/2611.14889",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts",
+      "link": "https://arxiv.org/abs/2611.14910",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+      "link": "https://arxiv.org/abs/2611.14924",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Provably Optimal HBT Legalization in Seconds: Certified Optima Reveal Where the Headroom Really Lies",
+      "link": "https://arxiv.org/abs/2611.14928",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+      "link": "https://arxiv.org/abs/2611.14942",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+      "link": "https://arxiv.org/abs/2611.14949",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
+      "link": "https://arxiv.org/abs/2611.14960",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-13T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "llm-gemini 0.37",
       "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
@@ -243,14 +427,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-12T13:26:25+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-613254398.jpg?resize=1200,800"
-    },
-    {
       "title": "Oh, Palantir is ‘progressive’ now, is it?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
       "source": "The Verge AI",
@@ -321,22 +497,6 @@
       "category": "Models",
       "published": "2026-11-12T09:30:00+00:00",
       "image": ""
-    },
-    {
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-12T09:10:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-12T03:13:10+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/NVIDIA-CEO-Business-Card-in-Modern-Office.png?resize=1200,675"
     },
     {
       "title": "Supporting research on AI and children’s safety",
