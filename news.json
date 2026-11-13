@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-12T21:40:02.251629+00:00",
+  "generated_at": "2026-11-13T04:27:49.167119+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "llm-gemini 0.37",
+      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-12T22:55:19+00:00",
+      "image": "https://static.simonwillison.net/static/2026/gemini-4-pelicans.webp"
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T22:42:51+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-12T22:28:47+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg"
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-12T22:22:28+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104"
+    },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -32,11 +64,11 @@
       "source": "MIT Technology Review AI",
       "category": "Research",
       "published": "2026-11-12T20:16:24+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang.jpg?resize=1200,600"
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600"
     },
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/index/amplitude",
+      "link": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-12T20:00:00+00:00",
@@ -137,6 +169,14 @@
       "category": "Business",
       "published": "2026-11-12T17:00:00+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-12T16:55:32-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Jensen Huang agrees to testify before Congress",
@@ -243,6 +283,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-12T12:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Jensen Huang is out. What did China want from him?",
       "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
       "source": "The Verge AI",
@@ -283,14 +331,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-12T08:53:16-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
       "source": "TechCrunch AI",
@@ -321,22 +361,6 @@
       "category": "Tools",
       "published": "2026-11-12T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif"
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T23:28:45+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
-    },
-    {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-11T23:17:05+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
     },
     {
       "title": "Gemini Decisions API",
@@ -843,14 +867,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
     },
     {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-05T20:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Quoting Paul Ford",
       "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "source": "Simon Willison",
@@ -891,14 +907,6 @@
       "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png"
     },
     {
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-04T20:55:50+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg"
-    },
-    {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Technology Review AI",
@@ -929,14 +937,6 @@
       "category": "Research",
       "published": "2026-11-04T13:00:00+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840"
-    },
-    {
-      "title": "datasette-apps 0.3a0",
-      "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-04T00:29:36+00:00",
-      "image": ""
     },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
