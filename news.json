@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-14T04:23:58.309599+00:00",
-  "count": 160,
+  "generated_at": "2026-11-14T12:47:32.413844+00:00",
+  "count": 140,
   "items": [
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-14T07:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "datasette-cluster-map 0.19",
       "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
@@ -177,166 +185,6 @@
       "category": "Business",
       "published": "2026-11-13T07:00:00-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "link": "https://arxiv.org/abs/2611.14544",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "link": "https://arxiv.org/abs/2611.14654",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "link": "https://arxiv.org/abs/2611.14681",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "link": "https://arxiv.org/abs/2611.14736",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "link": "https://arxiv.org/abs/2611.14765",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Rational Use of Time for Social Coordination in Humans and AI",
-      "link": "https://arxiv.org/abs/2611.14766",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "link": "https://arxiv.org/abs/2611.14769",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-      "link": "https://arxiv.org/abs/2611.14781",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "link": "https://arxiv.org/abs/2611.14794",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-      "link": "https://arxiv.org/abs/2611.14804",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
-      "link": "https://arxiv.org/abs/2611.14844",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Open Challenges and Opportunities in Human-Agent Systems",
-      "link": "https://arxiv.org/abs/2611.14846",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Effective Teacher Support for Reasoning Distillation",
-      "link": "https://arxiv.org/abs/2611.14850",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
-      "link": "https://arxiv.org/abs/2611.14889",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts",
-      "link": "https://arxiv.org/abs/2611.14910",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
-      "link": "https://arxiv.org/abs/2611.14924",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Provably Optimal HBT Legalization in Seconds: Certified Optima Reveal Where the Headroom Really Lies",
-      "link": "https://arxiv.org/abs/2611.14928",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
-      "link": "https://arxiv.org/abs/2611.14942",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
-      "link": "https://arxiv.org/abs/2611.14949",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
-      "link": "https://arxiv.org/abs/2611.14960",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "llm-gemini 0.37",
@@ -537,14 +385,6 @@
       "category": "Business",
       "published": "2026-11-12T12:44:33-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-12T12:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Gondola doubles revenue as its team builds more with Codex",
