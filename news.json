@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-13T21:07:10.506659+00:00",
+  "generated_at": "2026-11-14T04:23:58.309599+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "datasette-cluster-map 0.19",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-13T23:02:45+00:00",
+      "image": "https://static.simonwillison.net/static/2026/power-plants-pge.webp"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-13T22:43:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+    },
+    {
+      "title": "datasette-leaflet 0.3",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-13T22:30:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-13T21:20:47+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg"
+    },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -11,7 +43,15 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829"
     },
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-13T18:49:11-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch AI",
       "category": "Business",
@@ -28,7 +68,7 @@
     },
     {
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-11-13T17:25:45+00:00",
@@ -121,6 +161,14 @@
       "category": "Business",
       "published": "2026-11-13T09:00:00-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-13T08:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Let’s talk about Jensen Huang’s many affairs!",
@@ -307,14 +355,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800"
     },
     {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-12T22:28:47+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg"
-    },
-    {
       "title": "Muse can now place calls to US businesses — if you pay",
       "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch AI",
@@ -467,14 +507,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
     },
     {
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-12T16:32:33+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
-    },
-    {
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "source": "Ars Technica AI",
@@ -513,14 +545,6 @@
       "category": "Business",
       "published": "2026-11-12T12:00:00-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-12T12:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Gondola doubles revenue as its team builds more with Codex",
@@ -1019,14 +1043,6 @@
       "image": ""
     },
     {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-06T00:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "source": "Hugging Face",
@@ -1049,14 +1065,6 @@
       "category": "Models",
       "published": "2026-11-05T21:39:40+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
-    },
-    {
-      "title": "Quoting Paul Ford",
-      "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-05T17:34:03+00:00",
-      "image": ""
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -1089,14 +1097,6 @@
       "category": "Tools",
       "published": "2026-11-04T17:50:10+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png"
-    },
-    {
-      "title": "datasette-llm 0.1a10",
-      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-04T15:26:02+00:00",
-      "image": ""
     },
     {
       "title": "Securing the agentic enterprise with data lineage",
