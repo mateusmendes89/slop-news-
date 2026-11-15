@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-15T10:14:46.586675+00:00",
+  "generated_at": "2026-11-15T18:19:35.259393+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-15T08:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -393,14 +401,6 @@
       "category": "Business",
       "published": "2026-11-12T14:42:40-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-12T13:06:54-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Gondola doubles revenue as its team builds more with Codex",
