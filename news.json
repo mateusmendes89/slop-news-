@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:35:59.763186+00:00",
+  "generated_at": "2026-11-15T10:14:46.586675+00:00",
   "count": 140,
   "items": [
     {
@@ -9,6 +9,14 @@
       "category": "Business",
       "published": "2026-11-15T00:08:07+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024"
+    },
+    {
+      "title": "datasette-llm 0.1a11",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-14T23:59:28+00:00",
+      "image": "https://static.simonwillison.net/static/2026/lmstudio-datasette-agent.webp"
     },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -840,14 +848,6 @@
       "source": "Simon Willison",
       "category": "Tools",
       "published": "2026-11-07T23:57:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Terry Pratchett's Study",
-      "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-07T19:34:24+00:00",
       "image": ""
     },
     {
