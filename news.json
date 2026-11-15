@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-14T19:38:09.001999+00:00",
+  "generated_at": "2026-11-15T00:35:59.763186+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-15T00:08:07+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-14T21:41:22+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -9,6 +25,14 @@
       "category": "Business",
       "published": "2026-11-14T17:30:00+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+    },
+    {
+      "title": "datasette-vega 0.7",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-14T17:09:09+00:00",
+      "image": "https://static.simonwillison.net/static/2026/datasette-vega.webp"
     },
     {
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -337,22 +361,6 @@
       "category": "Business",
       "published": "2026-11-12T17:36:40+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-12T17:17:58+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-12T17:00:52+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799"
     },
     {
       "title": "Google’s new Gemini model is better at understanding complicated questions",
@@ -849,14 +857,6 @@
       "category": "Models",
       "published": "2026-11-06T17:43:02+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg"
-    },
-    {
-      "title": "Quoting Nilay Patel",
-      "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-06T17:13:12+00:00",
-      "image": ""
     },
     {
       "title": "Could potential AI clones of GTA VI force a quicker official port?",
