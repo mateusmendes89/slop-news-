@@ -1,7 +1,191 @@
 {
-  "generated_at": "2026-11-18T00:19:06.188139+00:00",
+  "generated_at": "2026-11-18T10:56:44.782469+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-18T10:20:30+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
+    },
+    {
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "link": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "link": "https://arxiv.org/abs/2611.21799",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "link": "https://arxiv.org/abs/2611.21827",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "link": "https://arxiv.org/abs/2611.21832",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "link": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "link": "https://arxiv.org/abs/2611.21925",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SLED: Sensor SLicing from Edge to Datacenter",
+      "link": "https://arxiv.org/abs/2611.21937",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "link": "https://arxiv.org/abs/2611.21946",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+      "link": "https://arxiv.org/abs/2611.21948",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+      "link": "https://arxiv.org/abs/2611.21950",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+      "link": "https://arxiv.org/abs/2611.21978",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
+      "link": "https://arxiv.org/abs/2611.21998",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "On Formal Counterfactual Explanations",
+      "link": "https://arxiv.org/abs/2611.22010",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+      "link": "https://arxiv.org/abs/2611.22017",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
+      "link": "https://arxiv.org/abs/2611.22030",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "link": "https://arxiv.org/abs/2611.22033",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
+      "link": "https://arxiv.org/abs/2611.22043",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
+      "link": "https://arxiv.org/abs/2611.22069",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
+      "link": "https://arxiv.org/abs/2611.22075",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "When Lower Harm Misleads: Auditing Concept Corrections",
+      "link": "https://arxiv.org/abs/2611.22084",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T01:44:21+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771"
+    },
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-18T00:27:29+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
+    },
     {
       "title": "Nvidia promises that revenue will keep soaring — for now",
       "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
@@ -9,6 +193,14 @@
       "category": "Business",
       "published": "2026-11-18T00:16:50+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-18T00:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -251,14 +443,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
     },
     {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T14:05:30+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2087335475.jpg?resize=1200,799"
-    },
-    {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
       "source": "Ars Technica AI",
@@ -305,166 +489,6 @@
       "category": "Tools",
       "published": "2026-11-17T06:16:26+00:00",
       "image": ""
-    },
-    {
-      "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
-      "link": "https://arxiv.org/abs/2611.18642",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
-      "link": "https://arxiv.org/abs/2611.18714",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
-      "link": "https://arxiv.org/abs/2611.18747",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
-      "link": "https://arxiv.org/abs/2611.18793",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
-      "link": "https://arxiv.org/abs/2611.18866",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
-      "link": "https://arxiv.org/abs/2611.18883",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging",
-      "link": "https://arxiv.org/abs/2611.18891",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
-      "link": "https://arxiv.org/abs/2611.18905",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
-      "link": "https://arxiv.org/abs/2611.18908",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
-      "link": "https://arxiv.org/abs/2611.18930",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
-      "link": "https://arxiv.org/abs/2611.18958",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SpecRelay: Amortize or Avoid the Round Trip in Edge-Cloud Speculative Decoding",
-      "link": "https://arxiv.org/abs/2611.18963",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
-      "link": "https://arxiv.org/abs/2611.18971",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Match and Correct: A Repeated Computational Motif in Evoformer Layers",
-      "link": "https://arxiv.org/abs/2611.19016",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Large Language Models for AI Infrastructure",
-      "link": "https://arxiv.org/abs/2611.19061",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Policy Optimization With Multiple Verifiers via Pareto Rankings",
-      "link": "https://arxiv.org/abs/2611.19064",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Assume/Guarantee Contracts for the Compositional Multi-Agent Reinforcement Learning of Heterogeneous Teams",
-      "link": "https://arxiv.org/abs/2611.19078",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "CONTEXT-PCa: Evaluating the role of clinical context in MRI-based AI for detecting clinically significant prostate cancer (study protocol)",
-      "link": "https://arxiv.org/abs/2611.19082",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Instructor-designed AI improves learning in a randomized trial across 19 universities",
-      "link": "https://arxiv.org/abs/2611.19099",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Guiding AI Agents to Generate Conjectures by Encoding How Theorems Build on One Another",
-      "link": "https://arxiv.org/abs/2611.19108",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -635,16 +659,16 @@
       "image": ""
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-16T06:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-16T06:00:00+00:00",
@@ -833,14 +857,6 @@
       "category": "Research",
       "published": "2026-11-12T20:16:24+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-12T20:00:00+00:00",
-      "image": ""
     },
     {
       "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
@@ -1051,14 +1067,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp"
     },
     {
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-10T12:15:32+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg"
-    },
-    {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "link": "https://huggingface.co/blog/hub-gcp-marketplace",
       "source": "Hugging Face",
@@ -1137,14 +1145,6 @@
       "category": "Tools",
       "published": "2026-11-05T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-11-04T18:50:55+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600"
     },
     {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
