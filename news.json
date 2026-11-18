@@ -1,7 +1,151 @@
 {
-  "generated_at": "2026-11-18T10:56:44.782469+00:00",
+  "generated_at": "2026-11-18T19:48:58.302301+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-18T19:19:33+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-18T18:53:43+00:00",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png"
+    },
+    {
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-18T18:10:33+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png"
+    },
+    {
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T18:04:05+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644"
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T17:32:10+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1497343848.jpeg?resize=1200,800"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI",
+      "category": "Models",
+      "published": "2026-11-18T17:00:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T16:59:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T16:14:09+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024"
+    },
+    {
+      "title": "Quoting Daniel Stenberg",
+      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-18T15:58:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-18T15:00:23+00:00",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif"
+    },
+    {
+      "title": "The PSF end-of-year fundraiser",
+      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-18T14:44:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-18T14:42:44+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600"
+    },
+    {
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-18T13:34:15-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T13:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024"
+    },
+    {
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-18T12:50:57-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T12:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/unsiloed-AI-founders-adnan-abbas-aman-mishra.jpg?resize=1200,800"
+    },
+    {
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-18T11:30:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/humyn-labs-co-founders_164602.jpg?resize=1200,800"
+    },
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-18T10:44:02-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
     {
       "title": "This smell startup says its AI nose is as good as a human’s",
       "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
@@ -9,6 +153,38 @@
       "category": "Research",
       "published": "2026-11-18T10:20:30+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
+    },
+    {
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-18T09:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-18T08:01:05-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-18T08:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suno now lets you make AI videos for your AI music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-18T06:16:53-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -195,12 +371,44 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776"
     },
     {
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-18T00:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-18T00:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T00:00:00+00:00",
       "image": ""
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-18T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-18T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png"
     },
     {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -331,22 +539,6 @@
       "image": ""
     },
     {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T17:32:25+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
-    },
-    {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T17:20:41+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1670871943.jpg?resize=1200,675"
-    },
-    {
       "title": "Put Gemini to work for you",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "source": "Google AI",
@@ -371,28 +563,12 @@
       "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-maplibre.webp"
     },
     {
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T16:44:15+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
-    },
-    {
       "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
       "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
       "source": "The Verge AI",
       "category": "Business",
       "published": "2026-11-17T16:40:59-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T16:32:55+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
     },
     {
       "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
@@ -411,36 +587,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg"
     },
     {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T15:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-12.32.41-PM.jpg?w=942"
-    },
-    {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T14:50:58+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800"
-    },
-    {
       "title": "Research Reports",
       "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
       "source": "MIT Technology Review AI",
       "category": "Research",
       "published": "2026-11-17T14:39:46+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png"
-    },
-    {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-17T14:26:46+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
     },
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -457,22 +609,6 @@
       "category": "Business",
       "published": "2026-11-17T13:58:01-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-17T11:19:03-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-17T11:09:57-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Introducing ChatGPT for Sales",
@@ -499,16 +635,16 @@
       "image": ""
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-17T00:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-17T00:00:00+00:00",
@@ -547,14 +683,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600"
     },
     {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-16T18:17:34-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Broadening access to AI for scientists",
       "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI",
@@ -577,30 +705,6 @@
       "category": "Research",
       "published": "2026-11-16T16:04:28+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?w=840"
-    },
-    {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-16T15:46:01-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-16T15:41:28-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-16T15:29:37-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -731,14 +835,6 @@
       "image": ""
     },
     {
-      "title": "Our new blog for science",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-15T22:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "datasette-apps 0.4a0",
       "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
       "source": "Simon Willison",
@@ -819,28 +915,12 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png"
     },
     {
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-13T15:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "source": "Hugging Face",
       "category": "Tools",
       "published": "2026-11-13T14:05:22+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-13T08:00:00+00:00",
-      "image": ""
     },
     {
       "title": "llm-gemini 0.37",
@@ -955,28 +1035,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png"
     },
     {
-      "title": "llm 0.37.2",
-      "link": "https://simonwillison.net/2026/Nov/11/llm/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-11T17:19:52+00:00",
-      "image": ""
-    },
-    {
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
       "source": "Google AI",
       "category": "Models",
       "published": "2026-11-11T16:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Anthropic's IPO roadshow video",
-      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-11T15:11:59+00:00",
-      "image": ""
     },
     {
       "title": "Google DeepMind just mathematically verified key parts of Signal",
@@ -1027,28 +1091,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
     },
     {
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-10T20:30:01+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg"
-    },
-    {
       "title": "Gemini Intelligence: New features, on more devices",
       "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "source": "Google AI",
       "category": "Models",
       "published": "2026-11-10T19:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-10T15:00:39+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg"
     },
     {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
@@ -1115,14 +1163,6 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png"
     },
     {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-11-06T10:00:00+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600"
-    },
-    {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "source": "Hugging Face",
@@ -1171,44 +1211,12 @@
       "image": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg"
     },
     {
-      "title": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-11-03T00:00:00+00:00",
-      "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png"
-    },
-    {
       "title": "The latest AI news we announced in October 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "source": "Google AI",
       "category": "Models",
       "published": "2026-11-02T17:45:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-29T13:37:07+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png"
-    },
-    {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "link": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-29T00:00:00+00:00",
-      "image": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg"
-    },
-    {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "link": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-10-29T00:00:00+00:00",
-      "image": "https://huggingface.co/blog/assets/ml4/thumbnail.png"
     },
     {
       "title": "Our newest AI Quest: Mapping the human brain",
@@ -1273,14 +1281,6 @@
       "category": "Models",
       "published": "2026-09-18T14:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Co-creating the future of fashion with Google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI",
-      "category": "Models",
-      "published": "2026-09-18T13:00:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
     }
   ]
 }
