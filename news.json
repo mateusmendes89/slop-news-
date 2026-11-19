@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-11-19T02:09:59.644327+00:00",
+  "generated_at": "2026-11-19T10:58:52.986463+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "link": "https://arxiv.org/abs/2611.23322",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Training Language Models for Introspective Oversight",
+      "link": "https://arxiv.org/abs/2611.23365",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "link": "https://arxiv.org/abs/2611.23375",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "link": "https://arxiv.org/abs/2611.23398",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "link": "https://arxiv.org/abs/2611.23410",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "link": "https://arxiv.org/abs/2611.23445",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+      "link": "https://arxiv.org/abs/2611.23454",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+      "link": "https://arxiv.org/abs/2611.23456",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "link": "https://arxiv.org/abs/2611.23476",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+      "link": "https://arxiv.org/abs/2611.23480",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+      "link": "https://arxiv.org/abs/2611.23483",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "BOS Summary: The First Token Matters",
+      "link": "https://arxiv.org/abs/2611.23508",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+      "link": "https://arxiv.org/abs/2611.23509",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+      "link": "https://arxiv.org/abs/2611.23520",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+      "link": "https://arxiv.org/abs/2611.23560",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+      "link": "https://arxiv.org/abs/2611.23564",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+      "link": "https://arxiv.org/abs/2611.23572",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+      "link": "https://arxiv.org/abs/2611.23588",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+      "link": "https://arxiv.org/abs/2611.23611",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+      "link": "https://arxiv.org/abs/2611.23639",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
@@ -9,6 +169,14 @@
       "category": "Business",
       "published": "2026-11-19T00:42:56+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800"
+    },
+    {
+      "title": "llm-gemini 0.38",
+      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-18T23:59:20+00:00",
+      "image": "https://static.simonwillison.net/static/2026/gemini-4-neon__comparison-graphi.width-2000.webp"
     },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -43,7 +211,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773211.jpg?w=594"
     },
     {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch AI",
       "category": "Business",
@@ -145,6 +313,14 @@
       "category": "Business",
       "published": "2026-11-18T17:32:10+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1497343848.jpeg?resize=1200,800"
+    },
+    {
+      "title": "datasette-arrows 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-18T17:09:59+00:00",
+      "image": "https://static.simonwillison.net/static/2026/arrow-export-dialog.webp"
     },
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -345,166 +521,6 @@
       "category": "Models",
       "published": "2026-11-18T06:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "link": "https://arxiv.org/abs/2611.21682",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "link": "https://arxiv.org/abs/2611.21799",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "link": "https://arxiv.org/abs/2611.21827",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "link": "https://arxiv.org/abs/2611.21832",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "link": "https://arxiv.org/abs/2611.21885",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "link": "https://arxiv.org/abs/2611.21925",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SLED: Sensor SLicing from Edge to Datacenter",
-      "link": "https://arxiv.org/abs/2611.21937",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
-      "link": "https://arxiv.org/abs/2611.21946",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
-      "link": "https://arxiv.org/abs/2611.21948",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-      "link": "https://arxiv.org/abs/2611.21950",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
-      "link": "https://arxiv.org/abs/2611.21978",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
-      "link": "https://arxiv.org/abs/2611.21998",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "On Formal Counterfactual Explanations",
-      "link": "https://arxiv.org/abs/2611.22010",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
-      "link": "https://arxiv.org/abs/2611.22017",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
-      "link": "https://arxiv.org/abs/2611.22030",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-      "link": "https://arxiv.org/abs/2611.22033",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
-      "link": "https://arxiv.org/abs/2611.22043",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
-      "link": "https://arxiv.org/abs/2611.22069",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
-      "link": "https://arxiv.org/abs/2611.22075",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "When Lower Harm Misleads: Auditing Concept Corrections",
-      "link": "https://arxiv.org/abs/2611.22084",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
@@ -1001,22 +1017,6 @@
       "category": "Tools",
       "published": "2026-11-11T22:03:25+00:00",
       "image": ""
-    },
-    {
-      "title": "aws-emulator",
-      "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-11T21:18:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Browse tools.simonwillison.net by tag",
-      "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-11T18:42:50+00:00",
-      "image": "https://static.simonwillison.net/static/2026/tools-tag-cloud.webp"
     },
     {
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
