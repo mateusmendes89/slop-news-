@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-11-19T19:49:11.427578+00:00",
+  "generated_at": "2026-11-20T01:58:09.484748+00:00",
   "count": 160,
   "items": [
     {
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-20T00:56:01+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-20T00:43:50+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
+    },
+    {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-19T21:58:06+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667"
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-19T21:42:31+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800"
+    },
+    {
+      "title": "PostgreSQL 19 Released",
+      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-19T20:43:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-19T20:19:28+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-19T20:18:49+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+    },
+    {
+      "title": "Anthropic’s IPO could deliver $156B to charity",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch AI",
       "category": "Business",
@@ -27,12 +83,20 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
     },
     {
-      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-19T17:38:40+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-19T17:31:41-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
@@ -51,6 +115,14 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800"
     },
     {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-19T16:59:35-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
       "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
       "source": "TechCrunch AI",
@@ -65,6 +137,22 @@
       "category": "Business",
       "published": "2026-11-19T16:19:41+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594"
+    },
+    {
+      "title": "Meta’s Muse Charm might cost $300",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-19T15:22:17-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-19T15:05:06-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
@@ -307,6 +395,38 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800"
     },
     {
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-19T00:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-19T00:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-19T00:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-19T00:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "llm-gemini 0.38",
       "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
       "source": "Simon Willison",
@@ -363,38 +483,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
     },
     {
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-18T21:34:13+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305757563-Medium.jpeg?w=594"
-    },
-    {
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-18T21:31:21+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800"
-    },
-    {
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-18T20:07:01+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594"
-    },
-    {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-18T19:56:39+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
-    },
-    {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "source": "Hugging Face",
@@ -419,28 +507,12 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png"
     },
     {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-18T18:18:35-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Will Wright's next simulation will use AI to mine content from your memories",
       "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-11-18T18:10:33+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png"
-    },
-    {
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-18T18:04:05+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644"
     },
     {
       "title": "datasette-arrows 0.1a0",
@@ -491,30 +563,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600"
     },
     {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-18T14:40:36-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Nvidia’s rise, visualized",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-18T14:30:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002526/acastro_STK083_01.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-18T14:07:29-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "This smell startup says its AI nose is as good as a human’s",
       "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "source": "MIT Technology Review AI",
@@ -531,16 +579,16 @@
       "image": ""
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T08:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T08:00:00+00:00",
@@ -571,16 +619,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T00:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T00:00:00+00:00",
@@ -811,38 +859,6 @@
       "image": ""
     },
     {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "link": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-16T09:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "link": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-16T09:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-16T08:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-16T06:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "link": "https://huggingface.co/blog/openrouter",
       "source": "Hugging Face",
@@ -1027,14 +1043,6 @@
       "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif"
     },
     {
-      "title": "Gemini Decisions API",
-      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-11T22:03:25+00:00",
-      "image": ""
-    },
-    {
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
       "source": "Ars Technica AI",
@@ -1105,14 +1113,6 @@
       "category": "Models",
       "published": "2026-11-10T22:35:01+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg"
-    },
-    {
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-10T21:12:59+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
     },
     {
       "title": "Gemini Intelligence: New features, on more devices",
