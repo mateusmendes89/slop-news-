@@ -1,7 +1,175 @@
 {
-  "generated_at": "2026-11-20T01:58:09.484748+00:00",
+  "generated_at": "2026-11-20T10:47:43.743593+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+      "link": "https://arxiv.org/abs/2611.25043",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+      "link": "https://arxiv.org/abs/2611.25070",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+      "link": "https://arxiv.org/abs/2611.25087",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
+      "link": "https://arxiv.org/abs/2611.25088",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
+      "link": "https://arxiv.org/abs/2611.25109",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
+      "link": "https://arxiv.org/abs/2611.25111",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
+      "link": "https://arxiv.org/abs/2611.25135",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
+      "link": "https://arxiv.org/abs/2611.25146",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A Verifier from the Past: Test-Time Compute for Time Series Foundation Models",
+      "link": "https://arxiv.org/abs/2611.25171",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
+      "link": "https://arxiv.org/abs/2611.25184",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "When AI Analysts Disagree: Agentic Multiverse Analysis and the Robustness of Empirical Research",
+      "link": "https://arxiv.org/abs/2611.25198",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Steering Automated Scientific Discovery via Audited Epistemic Exploration",
+      "link": "https://arxiv.org/abs/2611.25214",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MKA: Evaluating Multimodal Knowledge Agents on end-to-end professional tasks",
+      "link": "https://arxiv.org/abs/2611.25228",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A Neurosymbolic Multimodal Framework for 30-Day Diabetic Readmission Prediction: Integrating Structured EHR Data, Dense Clinical Embeddings, and Knowledge-Grounded Symbolic Extraction",
+      "link": "https://arxiv.org/abs/2611.25236",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding",
+      "link": "https://arxiv.org/abs/2611.25282",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Pandora's Toolbox Or Why Agent Safety Cannot Be Verified",
+      "link": "https://arxiv.org/abs/2611.25325",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Pro$^2$ Agent: Scientific Problem Probing for Autonomous AI R&D",
+      "link": "https://arxiv.org/abs/2611.25357",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
+      "link": "https://arxiv.org/abs/2611.25360",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Stop Going in Circles:Loop-Triggered Routing for System 1 Decision Agents",
+      "link": "https://arxiv.org/abs/2611.25363",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization",
+      "link": "https://arxiv.org/abs/2611.25380",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-20T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-20T02:49:57+00:00",
+      "image": ""
+    },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -225,166 +393,6 @@
       "category": "Business",
       "published": "2026-11-19T07:30:00-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-      "link": "https://arxiv.org/abs/2611.23322",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Training Language Models for Introspective Oversight",
-      "link": "https://arxiv.org/abs/2611.23365",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-      "link": "https://arxiv.org/abs/2611.23375",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-      "link": "https://arxiv.org/abs/2611.23398",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-      "link": "https://arxiv.org/abs/2611.23410",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-      "link": "https://arxiv.org/abs/2611.23445",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-      "link": "https://arxiv.org/abs/2611.23454",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-      "link": "https://arxiv.org/abs/2611.23456",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-      "link": "https://arxiv.org/abs/2611.23476",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-      "link": "https://arxiv.org/abs/2611.23480",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
-      "link": "https://arxiv.org/abs/2611.23483",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "BOS Summary: The First Token Matters",
-      "link": "https://arxiv.org/abs/2611.23508",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
-      "link": "https://arxiv.org/abs/2611.23509",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
-      "link": "https://arxiv.org/abs/2611.23520",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
-      "link": "https://arxiv.org/abs/2611.23560",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
-      "link": "https://arxiv.org/abs/2611.23564",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
-      "link": "https://arxiv.org/abs/2611.23572",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
-      "link": "https://arxiv.org/abs/2611.23588",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
-      "link": "https://arxiv.org/abs/2611.23611",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
-      "link": "https://arxiv.org/abs/2611.23639",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-19T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -977,14 +985,6 @@
       "category": "Tools",
       "published": "2026-11-13T14:05:22+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png"
-    },
-    {
-      "title": "llm-gemini 0.37",
-      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-12T22:55:19+00:00",
-      "image": "https://static.simonwillison.net/static/2026/gemini-4-pelicans.webp"
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
