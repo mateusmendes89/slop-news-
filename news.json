@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-20T19:28:49.234778+00:00",
+  "generated_at": "2026-11-21T01:54:11.344667+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-20T21:58:29+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg"
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-20T21:47:10+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-20T20:59:08+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-20T19:53:41+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-20T19:32:08+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750"
+    },
     {
       "title": "Quoting Ravi Vakil",
       "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
@@ -65,6 +105,14 @@
       "category": "Business",
       "published": "2026-11-20T11:34:13-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-20T10:00:00+00:00",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "The week everything fell apart",
@@ -267,12 +315,28 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
     },
     {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-20T00:00:00+00:00",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill"
+    },
+    {
       "title": "Can AI help scientists identify promising drug candidates?",
       "link": "https://openai.com/index/introducing-medchembench",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-20T00:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-20T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png"
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -456,7 +520,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-19T08:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -467,12 +531,12 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-19T00:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5v8vfxgtSsA7NgJTT3kzqU/5c217881e8568e2b342dc59a8e69d7e1/codex-security-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "See PR scans in action",
@@ -480,7 +544,15 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-19T00:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6pUIP8aRHn6eGeRGBWd0B0/c447f22952fcb14b3c43104989c1e739/pr-scans-social.png?w=1600&h=900&fit=fill"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-19T00:00:00+00:00",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3oycdkFjJTGZs3kPmqJXJx/e793dee688314652562a63782e000e77/daybreak-blue-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "Deploying Daybreak Red",
@@ -488,15 +560,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-19T00:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-19T00:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "llm-gemini 0.38",
@@ -513,22 +577,6 @@
       "category": "Business",
       "published": "2026-11-18T23:45:00+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200"
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-18T23:25:17+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-524212924.jpg?resize=1200,800"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-18T23:17:28+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
     },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -624,7 +672,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T10:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
@@ -632,7 +680,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T08:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4hobAtsV8r9aiWOWQkUYu6/aec1eae52f5c7241756a43c764ef43f5/sumitomo-life-seo-white-canvas-final.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "Research acceleration: The jagged frontier",
@@ -640,7 +688,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T08:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2YS8yWiGpKflhlEnAkcLU/f51ead4391706f6c3198f0d61a0f147a/research-acceleration-the-jagged-frontier-social.png"
     },
     {
       "title": "Inside the Codex sandbox",
@@ -648,7 +696,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T08:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1PnylD7lJwgUw7jYNP8wLh/7fa5553001136f3982e8d4db44146de3/inside-the-codex-sandbox-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "Managing frontier AI risk: From training to deployment",
@@ -656,7 +704,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T06:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/62zvkDv3unaiLBblzJHY4f/d61ad5ec9ebc02f033d0efac3807be3e/managing-frontier-ai-risk-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
@@ -667,20 +715,20 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-18T00:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Advancing chip design with OpenAI models",
       "link": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-18T00:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/658zg0FHAg7zuL73DTFCfC/fff21fd18c260ce64a10a14ee8d4e851/advancing-chip-design-social.png?w=1600&h=900&fit=fill"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-18T00:00:00+00:00",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6oojxLpPBP1EqJiCFQof6r/868dca9f2befad4a1cfa21aeaa7d1cdb/le-groupe-figaro-and-openai-announce-partnership-seo.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -728,7 +776,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-17T17:45:00+00:00",
-      "image": ""
+      "image": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png"
     },
     {
       "title": "Put Gemini to work for you",
@@ -784,7 +832,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-17T08:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "Quoting Go Proverbs",
@@ -800,15 +848,7 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-17T00:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-17T00:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4AvTdfi4XgE0hchiQH8UhY/6c9c5278cafc000de19c0892beecbf8c/strengthening-nato-and-allied-cyber-defences-with-ai-seo.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "Astra for Law leads in legal intelligence",
@@ -816,7 +856,15 @@
       "source": "OpenAI",
       "category": "Models",
       "published": "2026-11-17T00:00:00+00:00",
-      "image": ""
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3MwSwa1GcJHdJGeOy7u0LZ/7ecfaba7da6555bc46c1e85f50c13bdb/astra-law-legal-intelligence-social-smooth.png?w=1600&h=900&fit=fill"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "category": "Models",
+      "published": "2026-11-17T00:00:00+00:00",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1rTLbF8FhSFEoyiGB0lTYU/418dfbea2c146e27e301a9f85869eb12/introducing-openai-for-chile-social.png?w=1600&h=900&fit=fill"
     },
     {
       "title": "llm 0.37.3",
@@ -849,22 +897,6 @@
       "category": "Research",
       "published": "2026-11-16T18:38:47+00:00",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-16T17:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
-      "category": "Models",
-      "published": "2026-11-16T17:00:00+00:00",
-      "image": ""
     },
     {
       "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -1075,28 +1107,12 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png"
     },
     {
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-11T17:37:32+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png"
-    },
-    {
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
       "source": "Google AI",
       "category": "Models",
       "published": "2026-11-11T16:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-11T14:08:57+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg"
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -1121,14 +1137,6 @@
       "category": "Tools",
       "published": "2026-11-11T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png"
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-10T22:35:01+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg"
     },
     {
       "title": "Gemini Intelligence: New features, on more devices",
@@ -1217,14 +1225,6 @@
       "category": "Tools",
       "published": "2026-11-05T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png"
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-11-04T17:50:10+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png"
     },
     {
       "title": "The latest AI news we announced in October 2026",
