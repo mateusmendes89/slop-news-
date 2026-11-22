@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-21T18:31:06.895785+00:00",
+  "generated_at": "2026-11-22T00:50:22.713043+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "Muru",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-21T23:56:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-21T21:37:10+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-21T21:07:42+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -17,6 +41,14 @@
       "category": "Business",
       "published": "2026-11-21T16:00:00+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200"
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-21T15:03:37-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Can Anthropic afford to put safety first?",
@@ -161,6 +193,14 @@
       "category": "Business",
       "published": "2026-11-20T07:30:47-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "llm-gemini 0.38.1",
+      "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-20T03:01:57+00:00",
+      "image": "https://static.simonwillison.net/static/2026/gemini-4-xhigh-pelicans.webp"
     },
     {
       "title": "Token fraud is here and it’s BAD (YouTube)",
@@ -345,30 +385,6 @@
       "category": "Business",
       "published": "2026-11-19T15:22:17-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Google is putting AI chats right on the homepage",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-19T15:05:06-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-19T14:54:39+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024"
-    },
-    {
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-19T14:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Static_Go-Proactive.jpeg?resize=1200,675"
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -817,22 +833,6 @@
       "category": "Tools",
       "published": "2026-11-15T03:49:47+00:00",
       "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-agent-homepage.webp"
-    },
-    {
-      "title": "datasette-llm 0.1a11",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-14T23:59:28+00:00",
-      "image": "https://static.simonwillison.net/static/2026/lmstudio-datasette-agent.webp"
-    },
-    {
-      "title": "datasette-vega 0.7",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-14T17:09:09+00:00",
-      "image": "https://static.simonwillison.net/static/2026/datasette-vega.webp"
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
