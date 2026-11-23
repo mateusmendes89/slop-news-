@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-22T18:54:14.920057+00:00",
+  "generated_at": "2026-11-23T01:17:40.449109+00:00",
   "count": 140,
   "items": [
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-22T21:14:07+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "title": "Select Styling Specimens",
+      "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-22T19:45:06+00:00",
+      "image": "https://static.simonwillison.net/static/2026/select-firefox-safari-chrome.webp"
+    },
     {
       "title": "Why data centers are at the center of the Big Tech backlash",
       "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
@@ -9,6 +25,14 @@
       "category": "Business",
       "published": "2026-11-22T18:08:43+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-22T17:48:02-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -363,14 +387,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
     },
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-19T17:31:41-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
       "source": "Google AI",
@@ -385,14 +401,6 @@
       "category": "Business",
       "published": "2026-11-19T17:00:00+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800"
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-19T16:59:23+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801"
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -825,14 +833,6 @@
       "category": "Tools",
       "published": "2026-11-15T04:02:45+00:00",
       "image": ""
-    },
-    {
-      "title": "datasette-agent 0.6a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-15T03:49:47+00:00",
-      "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-agent-homepage.webp"
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
