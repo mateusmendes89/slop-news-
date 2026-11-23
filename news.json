@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-11-23T01:17:40.449109+00:00",
-  "count": 140,
+  "generated_at": "2026-11-23T11:35:58.003899+00:00",
+  "count": 160,
   "items": [
+    {
+      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-23T06:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "link": "https://arxiv.org/abs/2611.26663",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "link": "https://arxiv.org/abs/2611.26717",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "link": "https://arxiv.org/abs/2611.26722",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+      "link": "https://arxiv.org/abs/2611.26782",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+      "link": "https://arxiv.org/abs/2611.26794",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+      "link": "https://arxiv.org/abs/2611.26797",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+      "link": "https://arxiv.org/abs/2611.26870",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+      "link": "https://arxiv.org/abs/2611.26903",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+      "link": "https://arxiv.org/abs/2611.26906",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+      "link": "https://arxiv.org/abs/2611.26910",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
+      "link": "https://arxiv.org/abs/2611.26912",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Self-similar Organization of Information in Language",
+      "link": "https://arxiv.org/abs/2611.26935",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
+      "link": "https://arxiv.org/abs/2611.26942",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+      "link": "https://arxiv.org/abs/2611.26966",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+      "link": "https://arxiv.org/abs/2611.26968",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
+      "link": "https://arxiv.org/abs/2611.26975",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+      "link": "https://arxiv.org/abs/2611.26976",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
+      "link": "https://arxiv.org/abs/2611.26988",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
+      "link": "https://arxiv.org/abs/2611.26998",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
+      "link": "https://arxiv.org/abs/2611.27007",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-23T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-23T01:25:53+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
+    },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
@@ -243,14 +419,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-20T07:30:47-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "llm-gemini 0.38.1",
       "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
       "source": "Simon Willison",
@@ -393,14 +561,6 @@
       "category": "Models",
       "published": "2026-11-19T17:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-19T17:00:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800"
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
