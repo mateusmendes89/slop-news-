@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-23T23:10:20.432754+00:00",
-  "count": 160,
+  "generated_at": "2026-11-24T07:50:25.783794+00:00",
+  "count": 140,
   "items": [
+    {
+      "title": "datasette-charts 0.2a0",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-24T04:24:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "datasette-agent 0.7a1",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-24T03:45:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-23T23:40:49+00:00",
+      "image": "https://static.simonwillison.net/static/2026/glm-5.4-max.webp"
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
@@ -267,172 +291,20 @@
       "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill"
     },
     {
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "link": "https://arxiv.org/abs/2611.26663",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "link": "https://arxiv.org/abs/2611.26717",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "link": "https://arxiv.org/abs/2611.26722",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "link": "https://arxiv.org/abs/2611.26782",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "link": "https://arxiv.org/abs/2611.26794",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-      "link": "https://arxiv.org/abs/2611.26797",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
-      "link": "https://arxiv.org/abs/2611.26870",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-      "link": "https://arxiv.org/abs/2611.26903",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-      "link": "https://arxiv.org/abs/2611.26906",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-      "link": "https://arxiv.org/abs/2611.26910",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
-      "link": "https://arxiv.org/abs/2611.26912",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Self-similar Organization of Information in Language",
-      "link": "https://arxiv.org/abs/2611.26935",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
-      "link": "https://arxiv.org/abs/2611.26942",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
-      "link": "https://arxiv.org/abs/2611.26966",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
-      "link": "https://arxiv.org/abs/2611.26968",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
-      "link": "https://arxiv.org/abs/2611.26975",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
-      "link": "https://arxiv.org/abs/2611.26976",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
-      "link": "https://arxiv.org/abs/2611.26988",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
-      "link": "https://arxiv.org/abs/2611.26998",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
-      "link": "https://arxiv.org/abs/2611.27007",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
       "source": "TechCrunch AI",
       "category": "Business",
       "published": "2026-11-23T01:25:53+00:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
+    },
+    {
+      "title": "datasette-charts 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-23T00:37:20+00:00",
+      "image": "https://static.simonwillison.net/static/2026/datasette-charts-0.1a0.webp"
     },
     {
       "title": "How to build and maintain an agentic evaluation",
@@ -955,14 +827,6 @@
       "image": ""
     },
     {
-      "title": "llm 0.37.3",
-      "link": "https://simonwillison.net/2026/Nov/16/llm/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-16T23:57:26+00:00",
-      "image": ""
-    },
-    {
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
       "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
       "source": "Ars Technica AI",
@@ -1025,30 +889,6 @@
       "category": "Tools",
       "published": "2026-11-16T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg"
-    },
-    {
-      "title": "datasette-maplibre 0.1a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-15T23:58:36+00:00",
-      "image": "https://static.simonwillison.net/static/cors-allow/2026/datasette-maplibre.webp"
-    },
-    {
-      "title": "datasette 1.0a43",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-15T23:20:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "datasette 0.65.6",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-15T23:18:17+00:00",
-      "image": ""
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
