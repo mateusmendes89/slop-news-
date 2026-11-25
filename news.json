@@ -1,7 +1,239 @@
 {
-  "generated_at": "2026-11-25T03:53:48.991723+00:00",
+  "generated_at": "2026-11-25T16:36:02.897063+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-25T15:41:43+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Anita-Verma-Lallian-2.jpg?w=1024"
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-25T14:10:18+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-25T13:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800"
+    },
+    {
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "source": "Ars Technica AI",
+      "category": "Models",
+      "published": "2026-11-25T12:00:28+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg"
+    },
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-25T11:00:59-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-25T10:22:09+00:00",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png"
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review AI",
+      "category": "Research",
+      "published": "2026-11-25T10:00:00+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600"
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-25T09:12:33-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-25T08:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "link": "https://arxiv.org/abs/2611.31284",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "link": "https://arxiv.org/abs/2611.31301",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "link": "https://arxiv.org/abs/2611.31329",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "link": "https://arxiv.org/abs/2611.31345",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "link": "https://arxiv.org/abs/2611.31346",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "link": "https://arxiv.org/abs/2611.31347",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "link": "https://arxiv.org/abs/2611.31424",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "link": "https://arxiv.org/abs/2611.31427",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Taxi: Analyzing Agents at (Real) Scale",
+      "link": "https://arxiv.org/abs/2611.31457",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+      "link": "https://arxiv.org/abs/2611.31475",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
+      "link": "https://arxiv.org/abs/2611.31480",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
+      "link": "https://arxiv.org/abs/2611.31498",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "PatientFlowSynth: Evaluating FHIR Agents with Matched Patient Charts",
+      "link": "https://arxiv.org/abs/2611.31521",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
+      "link": "https://arxiv.org/abs/2611.31522",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Agent Evaluation Without Ground Truth: A Null Proportion Perspective",
+      "link": "https://arxiv.org/abs/2611.31539",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+      "link": "https://arxiv.org/abs/2611.31554",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+      "link": "https://arxiv.org/abs/2611.31559",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Off-the-Shelf Autonomous Agents for Game Playtesting",
+      "link": "https://arxiv.org/abs/2611.31570",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs",
+      "link": "https://arxiv.org/abs/2611.31571",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Provably Near-Optimal PQ in the Extended Zador Model",
+      "link": "https://arxiv.org/abs/2611.31579",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
@@ -163,14 +395,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754"
     },
     {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "source": "MIT Technology Review AI",
-      "category": "Research",
-      "published": "2026-11-24T15:15:16+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840"
-    },
-    {
       "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
       "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
       "source": "The Verge AI",
@@ -241,166 +465,6 @@
       "category": "Models",
       "published": "2026-11-24T11:00:00+00:00",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill"
-    },
-    {
-      "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
-      "link": "https://arxiv.org/abs/2611.28185",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
-      "link": "https://arxiv.org/abs/2611.28195",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
-      "link": "https://arxiv.org/abs/2611.28197",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay",
-      "link": "https://arxiv.org/abs/2611.28202",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling",
-      "link": "https://arxiv.org/abs/2611.28239",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
-      "link": "https://arxiv.org/abs/2611.28244",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "A Nepali-Accented English Evaluation Dataset for Automatic Speech Recognition",
-      "link": "https://arxiv.org/abs/2611.28263",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Temporal Logic Tensor Networks: Foundations of Temporal Reasoning in Neural Networks",
-      "link": "https://arxiv.org/abs/2611.28277",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Specialized Large Language Models for Markovian Reasoning: Structural Cache Compression, Transition Pretraining, and Dual-Loop Transformers",
-      "link": "https://arxiv.org/abs/2611.28285",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Feedback-Driven Prompt Refinement for Educational AI: Affective Trajectory Estimation and Bloom's Taxonomy Classification",
-      "link": "https://arxiv.org/abs/2611.28293",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "GERF: A Token-Efficient Multimodal Retrieval Framework for Schema-Guided Scientific Information Extraction",
-      "link": "https://arxiv.org/abs/2611.28295",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "INSEP: Refusal-Direction Inseparability as a Defense Against Abliteration",
-      "link": "https://arxiv.org/abs/2611.28314",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Selection Policies for Equal-Byte Mixed-Precision Quantization of Small Language Models",
-      "link": "https://arxiv.org/abs/2611.28318",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science",
-      "link": "https://arxiv.org/abs/2611.28324",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Decision models for UAVBench and the viability of edge deployment",
-      "link": "https://arxiv.org/abs/2611.28331",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "When Tools Fail, Agents Fabricate: Silent Failure and Verification-First Oversight in Tool-Using LLM Agents",
-      "link": "https://arxiv.org/abs/2611.28341",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SMAD: A Semantics-Guided Multi-Agent Framework for Unsupervised Time-Series Anomaly Detection",
-      "link": "https://arxiv.org/abs/2611.28348",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Engram: Multi-Stage Memory for Agentic Tuning of Heterogeneous Models",
-      "link": "https://arxiv.org/abs/2611.28356",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Schedule, Rank, Profile: Continuous Evaluation of LLM Agents in Games",
-      "link": "https://arxiv.org/abs/2611.28368",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "CausalNTP: A World-Model Recipe for Causal Next-Token Prediction under Noisy Training-data",
-      "link": "https://arxiv.org/abs/2611.28369",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "datasette-charts 0.2a0",
@@ -507,30 +571,6 @@
       "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill"
     },
     {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-23T20:38:53+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-23T19:14:46+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800"
-    },
-    {
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-23T18:12:22+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
-    },
-    {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "source": "MIT Technology Review AI",
@@ -563,14 +603,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-23T17:09:26-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "A more tailored Google Search that’s uniquely yours",
       "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
       "source": "Google AI",
@@ -579,28 +611,12 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp"
     },
     {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-23T16:09:37-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
       "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
       "source": "Ars Technica AI",
       "category": "Models",
       "published": "2026-11-23T15:46:18+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg"
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-23T15:00:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
@@ -907,14 +923,6 @@
       "image": ""
     },
     {
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-11-18T15:00:23+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif"
-    },
-    {
       "title": "The PSF end-of-year fundraiser",
       "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
       "source": "Simon Willison",
@@ -1049,14 +1057,6 @@
       "category": "Models",
       "published": "2026-11-17T14:00:29+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg"
-    },
-    {
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "source": "Ars Technica AI",
-      "category": "Models",
-      "published": "2026-11-16T22:58:27+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg"
     },
     {
       "title": "The open-source movement wants Jensen Huang back",
