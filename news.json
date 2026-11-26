@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-26T11:45:41.726477+00:00",
+  "generated_at": "2026-11-26T20:46:33.833564+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-26T20:03:54+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "category": "Business",
+      "published": "2026-11-26T16:00:00+00:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675"
+    },
+    {
+      "title": "Quoting Jack Despain Zhou",
+      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-26T15:09:31+00:00",
+      "image": ""
+    },
     {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -16,6 +40,14 @@
       "source": "Simon Willison",
       "category": "Tools",
       "published": "2026-11-26T06:08:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "source": "Simon Willison",
+      "category": "Tools",
+      "published": "2026-11-26T05:08:46+00:00",
       "image": ""
     },
     {
@@ -193,6 +225,14 @@
       "category": "Business",
       "published": "2026-11-26T04:54:40-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-26T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png"
     },
     {
       "title": "Quoting Scott Aaronson",
@@ -481,22 +521,6 @@
       "category": "Tools",
       "published": "2026-11-24T16:53:59+00:00",
       "image": ""
-    },
-    {
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-24T16:46:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720"
-    },
-    {
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "source": "TechCrunch AI",
-      "category": "Business",
-      "published": "2026-11-24T16:10:00+00:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800"
     },
     {
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
@@ -915,14 +939,6 @@
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3oycdkFjJTGZs3kPmqJXJx/e793dee688314652562a63782e000e77/daybreak-blue-social.png?w=1600&h=900&fit=fill"
     },
     {
-      "title": "llm-gemini 0.38",
-      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-18T23:59:20+00:00",
-      "image": "https://static.simonwillison.net/static/2026/gemini-4-neon__comparison-graphi.width-2000.webp"
-    },
-    {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "source": "Hugging Face",
@@ -953,14 +969,6 @@
       "category": "Models",
       "published": "2026-11-18T18:10:33+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png"
-    },
-    {
-      "title": "datasette-arrows 0.1a0",
-      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "source": "Simon Willison",
-      "category": "Tools",
-      "published": "2026-11-18T17:09:59+00:00",
-      "image": "https://static.simonwillison.net/static/2026/arrow-export-dialog.webp"
     },
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -1225,14 +1233,6 @@
       "category": "Tools",
       "published": "2026-11-10T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/decision/thumbnail.png"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-11-09T12:34:29+00:00",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png"
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
