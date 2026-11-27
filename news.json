@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-11-27T03:25:00.679360+00:00",
+  "generated_at": "2026-11-27T15:55:15.470902+00:00",
   "count": 160,
   "items": [
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "category": "Business",
+      "published": "2026-11-27T09:00:00-05:00",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "link": "https://arxiv.org/abs/2611.33160",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "link": "https://arxiv.org/abs/2611.33161",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "link": "https://arxiv.org/abs/2611.33165",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "link": "https://arxiv.org/abs/2611.33190",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "link": "https://arxiv.org/abs/2611.33263",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "link": "https://arxiv.org/abs/2611.33303",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "link": "https://arxiv.org/abs/2611.33304",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "link": "https://arxiv.org/abs/2611.33322",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Confidence scores for gated automation of large language models",
+      "link": "https://arxiv.org/abs/2611.33394",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "link": "https://arxiv.org/abs/2611.33402",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+      "link": "https://arxiv.org/abs/2611.33411",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "link": "https://arxiv.org/abs/2611.33470",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "link": "https://arxiv.org/abs/2611.33497",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Learning to Reason in Real-Time",
+      "link": "https://arxiv.org/abs/2611.33513",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "PeerReveal: Learning to Generalize in AI Peer Review Detection",
+      "link": "https://arxiv.org/abs/2611.33555",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+      "link": "https://arxiv.org/abs/2611.33563",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+      "link": "https://arxiv.org/abs/2611.33594",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Learning from Natural Images Untangles Number Sense",
+      "link": "https://arxiv.org/abs/2611.33615",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Controllable CAD Generation and Interactive Editing of Fluid Rotors",
+      "link": "https://arxiv.org/abs/2611.33617",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+      "link": "https://arxiv.org/abs/2611.33639",
+      "source": "arXiv AI",
+      "category": "Research",
+      "published": "2026-11-27T05:00:00+00:00",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "category": "Tools",
+      "published": "2026-11-27T00:00:00+00:00",
+      "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg"
+    },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -57,166 +233,6 @@
       "category": "Tools",
       "published": "2026-11-26T05:05:36+00:00",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png"
-    },
-    {
-      "title": "Context Scaling: A New Frontier of AI Scaling",
-      "link": "https://arxiv.org/abs/2611.33160",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "link": "https://arxiv.org/abs/2611.33161",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
-      "link": "https://arxiv.org/abs/2611.33165",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "General-Purpose Decision Models for AI Configuration Tuning",
-      "link": "https://arxiv.org/abs/2611.33190",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
-      "link": "https://arxiv.org/abs/2611.33263",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
-      "link": "https://arxiv.org/abs/2611.33303",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
-      "link": "https://arxiv.org/abs/2611.33304",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
-      "link": "https://arxiv.org/abs/2611.33322",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Confidence scores for gated automation of large language models",
-      "link": "https://arxiv.org/abs/2611.33394",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
-      "link": "https://arxiv.org/abs/2611.33402",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
-      "link": "https://arxiv.org/abs/2611.33411",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
-      "link": "https://arxiv.org/abs/2611.33470",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
-      "link": "https://arxiv.org/abs/2611.33497",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Learning to Reason in Real-Time",
-      "link": "https://arxiv.org/abs/2611.33513",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "PeerReveal: Learning to Generalize in AI Peer Review Detection",
-      "link": "https://arxiv.org/abs/2611.33555",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
-      "link": "https://arxiv.org/abs/2611.33563",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
-      "link": "https://arxiv.org/abs/2611.33594",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Learning from Natural Images Untangles Number Sense",
-      "link": "https://arxiv.org/abs/2611.33615",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Controllable CAD Generation and Interactive Editing of Fluid Rotors",
-      "link": "https://arxiv.org/abs/2611.33617",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
-      "link": "https://arxiv.org/abs/2611.33639",
-      "source": "arXiv AI",
-      "category": "Research",
-      "published": "2026-11-26T05:00:00+00:00",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -577,14 +593,6 @@
       "category": "Business",
       "published": "2026-11-24T12:17:09-05:00",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "source": "The Verge AI",
-      "category": "Business",
-      "published": "2026-11-24T11:30:00-05:00",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "title": "Searching for distant planets with Astra",
@@ -1225,14 +1233,6 @@
       "category": "Tools",
       "published": "2026-11-10T00:00:00+00:00",
       "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg"
-    },
-    {
-      "title": "Decision Models in Hugging Face",
-      "link": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face",
-      "category": "Tools",
-      "published": "2026-11-10T00:00:00+00:00",
-      "image": "https://huggingface.co/blog/assets/decision/thumbnail.png"
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
